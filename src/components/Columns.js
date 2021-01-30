@@ -1,12 +1,6 @@
 import { format } from "date-fns";
-
-const format$ = (number) =>
-  number === null
-    ? "-"
-    : new Intl.NumberFormat("en-SG", {
-        style: "currency",
-        currency: "SGD",
-      }).format(number);
+import { format$ } from '../assets/scripts/util'
+import CATEGORIES from "../assets/CATEGORIES.json";
 
 export const COLUMNS = [
   {
@@ -31,6 +25,9 @@ export const COLUMNS = [
   {
     Header: "Category",
     accessor: "category",
+    Cell: ({value}) => {
+      return String(CATEGORIES["categories"][value])
+    },
   },
   {
     Header: "Withdrawal",
