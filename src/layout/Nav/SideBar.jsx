@@ -16,17 +16,17 @@ export default function SideBar() {
           </NavLink>
         </li>
         <li className="nav-item">
-          <NavLink className="nav-link" to="/#">
+          <NavLink className="nav-link" to="/income">
             Income
           </NavLink>
         </li>
         <li className="nav-item">
-          <NavLink className="nav-link" to="/#">
+          <NavLink className="nav-link" to="/expenses">
             Expenses
           </NavLink>
         </li>
         <li className="nav-item">
-          <NavLink className="nav-link" to="/#">
+          <NavLink className="nav-link" to="/expensesbycat">
             Expenses By Category
           </NavLink>
         </li>

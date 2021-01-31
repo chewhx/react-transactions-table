@@ -26,6 +26,15 @@
     "taxes",
     "taxi & car service",
     "travel",
-    "other expenses"
+    "other expenses",
+    "bonus",
+    "deposits",
+    "investment income",
+    "refunds & adjustments",
+    "salary",
+    "other income",
+    "credit card payment",
+    "transfer",
+    "reimbursement"
   ]
 }

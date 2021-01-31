@@ -3,30 +3,35 @@ import PropTypes from "prop-types";
 import { Bar } from "react-chartjs-2";
 import { format$ } from "../../assets/scripts/util";
 
-export default function BarChartJS({
+export default function BarTwoChartJS({
   title,
   labels,
+  forExpenses,
+  forIncome,
   expensesByMonth,
   incomeByMonth,
 }) {
+  const dataOnExpenses = forExpenses && {
+    label: "Expenses",
+    data: Object.values(expensesByMonth),
+    backgroundColor: "rgba(255, 99, 132, 0.2)",
+    borderColor: "rgba(255, 99, 132, 1)",
+    borderWidth: 1,
+  };
+
+  const dataOnIncome = forIncome && {
+    label: "Income",
+    data: Object.values(incomeByMonth),
+    backgroundColor: "rgba(54, 162, 235, 0.2)",
+    borderColor: "rgba(54, 162, 235, 1)",
+    borderWidth: 1,
+  };
+
+  console.log("dataOnIncome", dataOnIncome);
+
   const chartDatasets = {
     labels: labels,
-    datasets: [
-      {
-        label: "Expenses",
-        data: Object.values(expensesByMonth),
-        backgroundColor: "rgba(255, 99, 132, 0.2)",
-        borderColor: "rgba(255, 99, 132, 1)",
-        borderWidth: 1,
-      },
-      {
-        label: "Income",
-        data: Object.values(incomeByMonth),
-        backgroundColor: "rgba(54, 162, 235, 0.2)",
-        borderColor: "rgba(54, 162, 235, 1)",
-        borderWidth: 1,
-      },
-    ],
+    datasets: [dataOnExpenses],
   };
 
   const chartOptions = {
@@ -46,22 +51,18 @@ export default function BarChartJS({
     },
   };
 
-  return (
-    <Bar
-      data={chartDatasets}
-      options={chartOptions}
-    />
-  );
+  console.log("expensesByMonth", expensesByMonth);
+  return <Bar data={chartDatasets} options={chartOptions} />;
 }
 
-BarChartJS.propTypes = {
+BarTwoChartJS.propTypes = {
   title: PropTypes.string.isRequired,
   labels: PropTypes.array,
   expensesByMonth: PropTypes.object.isRequired,
   incomeByMonth: PropTypes.object.isRequired,
 };
 
-BarChartJS.defaultProps = {
+BarTwoChartJS.defaultProps = {
   title: "Year 9999 - Bar Chart By Months",
   labels: [
     "Jan",
@@ -77,4 +78,5 @@ BarChartJS.defaultProps = {
     "Nov",
     "Dec",
   ],
+  incomeByMonth: { 0: 0, 1: 0 },
 };

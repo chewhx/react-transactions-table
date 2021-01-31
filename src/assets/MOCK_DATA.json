@@ -1,1802 +1,1802 @@
 [
   {
     "id": 1,
-    "date": "2020-11-05T22:41:27Z",
-    "transaction_code": "NZ1143TI",
-    "payee": "Centimia",
-    "debit": 227.25,
-    "credit": null,
-    "category": 16
+    "date": "2020-05-09T07:14:45Z",
+    "transaction_code": "IT7044DJ",
+    "payee": "Meemm",
+    "debit": 0,
+    "credit": 383,
+    "category": 27
   },
   {
     "id": 2,
-    "date": "2020-12-12T01:34:00Z",
-    "transaction_code": "EF7815YM",
-    "payee": "Centizu",
-    "debit": 393.04,
-    "credit": null,
-    "category": 7
-  },
-  {
-    "id": 3,
-    "date": "2020-01-23T13:06:46Z",
-    "transaction_code": "ZU9165OK",
-    "payee": "Gigashots",
-    "debit": 978.06,
-    "credit": null,
-    "category": 26
-  },
-  {
-    "id": 4,
-    "date": "2020-01-11T02:07:01Z",
-    "transaction_code": "BV6943UW",
-    "payee": "Skinix",
-    "debit": null,
-    "credit": 3247,
-    "category": 26
-  },
-  {
-    "id": 5,
-    "date": "2020-11-09T06:22:07Z",
-    "transaction_code": "HZ4948NU",
-    "payee": "Skinder",
-    "debit": null,
-    "credit": 3559,
-    "category": 0
-  },
-  {
-    "id": 6,
-    "date": "2020-12-28T18:26:09Z",
-    "transaction_code": "DJ0720ET",
-    "payee": "Zoomzone",
-    "debit": 1668.22,
-    "credit": null,
-    "category": 25
-  },
-  {
-    "id": 7,
-    "date": "2020-01-01T09:53:10Z",
-    "transaction_code": "RQ1547KZ",
-    "payee": "Shuffledrive",
-    "debit": 2303.83,
-    "credit": null,
-    "category": 17
-  },
-  {
-    "id": 8,
-    "date": "2020-12-16T19:27:59Z",
-    "transaction_code": "PO5428OR",
-    "payee": "Wordtune",
-    "debit": 3837.23,
-    "credit": null,
-    "category": 5
-  },
-  {
-    "id": 9,
-    "date": "2020-04-26T09:56:46Z",
-    "transaction_code": "FD9782RX",
-    "payee": "Meevee",
-    "debit": 14.65,
-    "credit": null,
-    "category": 1
-  },
-  {
-    "id": 10,
-    "date": "2020-11-16T02:08:12Z",
-    "transaction_code": "QI0324QW",
-    "payee": "Camido",
-    "debit": 2020.24,
-    "credit": null,
-    "category": 22
-  },
-  {
-    "id": 11,
-    "date": "2020-02-08T22:47:44Z",
-    "transaction_code": "SW5644NX",
-    "payee": "Jatri",
-    "debit": 3664.99,
-    "credit": null,
-    "category": 5
-  },
-  {
-    "id": 12,
-    "date": "2020-09-05T06:44:55Z",
-    "transaction_code": "NC2887TE",
-    "payee": "Jabbercube",
-    "debit": 2144.16,
-    "credit": null,
-    "category": 1
-  },
-  {
-    "id": 13,
-    "date": "2020-05-08T02:43:02Z",
-    "transaction_code": "EL3015GD",
-    "payee": "Abata",
-    "debit": 3654.08,
-    "credit": null,
-    "category": 3
-  },
-  {
-    "id": 14,
-    "date": "2020-12-24T10:11:04Z",
-    "transaction_code": "MI0618CA",
-    "payee": "Realcube",
-    "debit": null,
-    "credit": 1249,
-    "category": 20
-  },
-  {
-    "id": 15,
-    "date": "2020-03-22T13:49:43Z",
-    "transaction_code": "DF9365JS",
-    "payee": "Vitz",
-    "debit": null,
-    "credit": 1941,
-    "category": 3
-  },
-  {
-    "id": 16,
-    "date": "2020-05-15T06:16:23Z",
-    "transaction_code": "CR9659UL",
-    "payee": "Shuffledrive",
-    "debit": 2743.83,
-    "credit": null,
-    "category": 20
-  },
-  {
-    "id": 17,
-    "date": "2020-04-02T13:36:57Z",
-    "transaction_code": "OE2714UB",
-    "payee": "Ooba",
-    "debit": 3390.57,
-    "credit": null,
-    "category": 14
-  },
-  {
-    "id": 18,
-    "date": "2020-10-08T04:06:25Z",
-    "transaction_code": "SN6836ND",
-    "payee": "Voonder",
-    "debit": 606.94,
-    "credit": null,
-    "category": 13
-  },
-  {
-    "id": 19,
-    "date": "2020-04-08T05:09:00Z",
-    "transaction_code": "WJ4325IR",
-    "payee": "Eimbee",
-    "debit": 1855.48,
-    "credit": null,
-    "category": 23
-  },
-  {
-    "id": 20,
-    "date": "2020-05-11T07:02:58Z",
-    "transaction_code": "JJ4973OQ",
-    "payee": "Zoonder",
-    "debit": null,
-    "credit": 769,
-    "category": 9
-  },
-  {
-    "id": 21,
-    "date": "2020-11-09T07:33:04Z",
-    "transaction_code": "SU6221FU",
-    "payee": "Realmix",
-    "debit": 1789.04,
-    "credit": null,
-    "category": 2
-  },
-  {
-    "id": 22,
-    "date": "2020-06-27T14:09:57Z",
-    "transaction_code": "FG7961TT",
-    "payee": "Einti",
-    "debit": null,
-    "credit": 377,
-    "category": 13
-  },
-  {
-    "id": 23,
-    "date": "2020-06-16T17:46:31Z",
-    "transaction_code": "FL3618UC",
-    "payee": "Katz",
-    "debit": 1524.37,
-    "credit": null,
+    "date": "2020-10-05T17:55:52Z",
+    "transaction_code": "VW1739SQ",
+    "payee": "Tazz",
+    "debit": 2913.66,
+    "credit": 0,
     "category": 10
   },
   {
-    "id": 24,
-    "date": "2020-12-27T20:56:56Z",
-    "transaction_code": "UO1140FK",
-    "payee": "Youfeed",
-    "debit": 1901.76,
-    "credit": null,
-    "category": 21
+    "id": 3,
+    "date": "2020-03-06T09:56:00Z",
+    "transaction_code": "SI9152PC",
+    "payee": "Skyba",
+    "debit": 281.69,
+    "credit": 0,
+    "category": 22
   },
   {
-    "id": 25,
-    "date": "2020-05-27T00:08:10Z",
-    "transaction_code": "AU0700BV",
-    "payee": "Voolia",
-    "debit": 1443.92,
-    "credit": null,
-    "category": 16
-  },
-  {
-    "id": 26,
-    "date": "2020-10-22T14:25:23Z",
-    "transaction_code": "NC0247WS",
-    "payee": "Snaptags",
-    "debit": 2852.73,
-    "credit": null,
+    "id": 4,
+    "date": "2020-10-27T22:55:14Z",
+    "transaction_code": "UL4812XR",
+    "payee": "Flipopia",
+    "debit": 2647.16,
+    "credit": 0,
     "category": 19
   },
   {
+    "id": 5,
+    "date": "2020-01-18T04:55:04Z",
+    "transaction_code": "ID5640SN",
+    "payee": "Tagtune",
+    "debit": 1466.02,
+    "credit": 0,
+    "category": 13
+  },
+  {
+    "id": 6,
+    "date": "2020-05-30T23:03:33Z",
+    "transaction_code": "ED8697XY",
+    "payee": "Rhyloo",
+    "debit": 0,
+    "credit": 3738,
+    "category": 32
+  },
+  {
+    "id": 7,
+    "date": "2020-08-01T13:17:44Z",
+    "transaction_code": "YE3054MM",
+    "payee": "Oyoloo",
+    "debit": 1040.25,
+    "credit": 0,
+    "category": 6
+  },
+  {
+    "id": 8,
+    "date": "2020-06-10T22:10:02Z",
+    "transaction_code": "OT0713IG",
+    "payee": "Zoozzy",
+    "debit": 3873.03,
+    "credit": 0,
+    "category": 20
+  },
+  {
+    "id": 9,
+    "date": "2020-06-01T14:23:13Z",
+    "transaction_code": "DQ5480DO",
+    "payee": "Jaxspan",
+    "debit": 2191.11,
+    "credit": 0,
+    "category": 14
+  },
+  {
+    "id": 10,
+    "date": "2020-11-01T03:10:13Z",
+    "transaction_code": "LV8199YB",
+    "payee": "Jaxnation",
+    "debit": 1276.66,
+    "credit": 0,
+    "category": 19
+  },
+  {
+    "id": 11,
+    "date": "2020-11-16T20:27:41Z",
+    "transaction_code": "GA1330FX",
+    "payee": "Skiptube",
+    "debit": 3258.46,
+    "credit": 0,
+    "category": 22
+  },
+  {
+    "id": 12,
+    "date": "2020-08-22T23:22:44Z",
+    "transaction_code": "CH7664QP",
+    "payee": "Skinte",
+    "debit": 1225.97,
+    "credit": 0,
+    "category": 13
+  },
+  {
+    "id": 13,
+    "date": "2020-05-05T17:18:58Z",
+    "transaction_code": "DG4045WF",
+    "payee": "Tazz",
+    "debit": 793.9,
+    "credit": 0,
+    "category": 16
+  },
+  {
+    "id": 14,
+    "date": "2020-05-04T12:32:00Z",
+    "transaction_code": "AK9257EA",
+    "payee": "Skyvu",
+    "debit": 1167.54,
+    "credit": 0,
+    "category": 26
+  },
+  {
+    "id": 15,
+    "date": "2020-08-30T22:43:27Z",
+    "transaction_code": "TU3978XE",
+    "payee": "Topicware",
+    "debit": 935.08,
+    "credit": 0,
+    "category": 13
+  },
+  {
+    "id": 16,
+    "date": "2020-01-05T13:47:32Z",
+    "transaction_code": "OL9767CI",
+    "payee": "Rhynoodle",
+    "debit": 2471.04,
+    "credit": 0,
+    "category": 5
+  },
+  {
+    "id": 17,
+    "date": "2020-09-24T04:46:53Z",
+    "transaction_code": "GX4523AL",
+    "payee": "Yata",
+    "debit": 1825.36,
+    "credit": 0,
+    "category": 16
+  },
+  {
+    "id": 18,
+    "date": "2020-02-22T01:12:35Z",
+    "transaction_code": "MJ6217UF",
+    "payee": "Shufflester",
+    "debit": 1830.69,
+    "credit": 0,
+    "category": 7
+  },
+  {
+    "id": 19,
+    "date": "2020-08-14T03:39:58Z",
+    "transaction_code": "UQ1152CQ",
+    "payee": "Centimia",
+    "debit": 730.42,
+    "credit": 0,
+    "category": 16
+  },
+  {
+    "id": 20,
+    "date": "2020-08-22T09:15:29Z",
+    "transaction_code": "KM8680RA",
+    "payee": "Talane",
+    "debit": 0,
+    "credit": 937,
+    "category": 29
+  },
+  {
+    "id": 21,
+    "date": "2020-03-02T06:52:50Z",
+    "transaction_code": "CR7304OU",
+    "payee": "Voolith",
+    "debit": 927.98,
+    "credit": 0,
+    "category": 24
+  },
+  {
+    "id": 22,
+    "date": "2020-12-18T18:40:48Z",
+    "transaction_code": "PN7123RH",
+    "payee": "Photobean",
+    "debit": 2269.03,
+    "credit": 0,
+    "category": 5
+  },
+  {
+    "id": 23,
+    "date": "2020-09-14T12:21:12Z",
+    "transaction_code": "LT5749JV",
+    "payee": "Layo",
+    "debit": 3600.83,
+    "credit": 0,
+    "category": 24
+  },
+  {
+    "id": 24,
+    "date": "2020-08-13T02:11:07Z",
+    "transaction_code": "ZT5410TE",
+    "payee": "Topicstorm",
+    "debit": 2544.96,
+    "credit": 0,
+    "category": 14
+  },
+  {
+    "id": 25,
+    "date": "2020-12-05T20:10:54Z",
+    "transaction_code": "VJ2006OM",
+    "payee": "Mymm",
+    "debit": 1414.6,
+    "credit": 0,
+    "category": 22
+  },
+  {
+    "id": 26,
+    "date": "2020-02-05T01:34:46Z",
+    "transaction_code": "GA2718AY",
+    "payee": "Demivee",
+    "debit": 0,
+    "credit": 3407,
+    "category": 32
+  },
+  {
     "id": 27,
-    "date": "2020-04-29T04:39:36Z",
-    "transaction_code": "BL3096YI",
-    "payee": "Meejo",
-    "debit": 3872.77,
-    "credit": null,
-    "category": 15
+    "date": "2020-03-21T18:11:37Z",
+    "transaction_code": "SY2216RF",
+    "payee": "Kanoodle",
+    "debit": 974.53,
+    "credit": 0,
+    "category": 8
   },
   {
     "id": 28,
-    "date": "2020-05-01T22:52:31Z",
-    "transaction_code": "RJ5118KZ",
-    "payee": "Rhyloo",
-    "debit": 2123.35,
-    "credit": null,
-    "category": 4
+    "date": "2020-12-21T15:56:23Z",
+    "transaction_code": "LT2802ZG",
+    "payee": "Zoonder",
+    "debit": 1929.86,
+    "credit": 0,
+    "category": 20
   },
   {
     "id": 29,
-    "date": "2020-11-30T17:38:58Z",
-    "transaction_code": "XG4270XZ",
-    "payee": "Yata",
-    "debit": 1354.67,
-    "credit": null,
-    "category": 23
+    "date": "2020-09-23T05:20:20Z",
+    "transaction_code": "GT6959TR",
+    "payee": "Browsedrive",
+    "debit": 1198.02,
+    "credit": 0,
+    "category": 16
   },
   {
     "id": 30,
-    "date": "2020-11-09T18:40:50Z",
-    "transaction_code": "RX0219VT",
-    "payee": "Blogtags",
-    "debit": 1728.24,
-    "credit": null,
+    "date": "2020-11-12T20:02:32Z",
+    "transaction_code": "ZO5871XD",
+    "payee": "Realpoint",
+    "debit": 1217.78,
+    "credit": 0,
     "category": 12
   },
   {
     "id": 31,
-    "date": "2020-09-03T08:11:41Z",
-    "transaction_code": "NM0929JC",
-    "payee": "Meetz",
-    "debit": null,
-    "credit": 2532,
-    "category": 7
+    "date": "2020-10-23T01:33:52Z",
+    "transaction_code": "BK3507PU",
+    "payee": "Oozz",
+    "debit": 0,
+    "credit": 77,
+    "category": 30
   },
   {
     "id": 32,
-    "date": "2020-05-07T21:02:11Z",
-    "transaction_code": "DA8320WH",
-    "payee": "Leenti",
-    "debit": 551.36,
-    "credit": null,
-    "category": 20
+    "date": "2020-04-25T13:23:59Z",
+    "transaction_code": "MQ2955IT",
+    "payee": "Realblab",
+    "debit": 0,
+    "credit": 444,
+    "category": 31
   },
   {
     "id": 33,
-    "date": "2020-04-24T07:09:44Z",
-    "transaction_code": "VV8222OZ",
-    "payee": "Edgeblab",
-    "debit": null,
-    "credit": 2602,
-    "category": 10
+    "date": "2020-11-03T10:32:30Z",
+    "transaction_code": "TU7325CZ",
+    "payee": "Oozz",
+    "debit": 2498.22,
+    "credit": 0,
+    "category": 26
   },
   {
     "id": 34,
-    "date": "2020-10-20T02:02:18Z",
-    "transaction_code": "PZ8620HH",
-    "payee": "Cogibox",
-    "debit": 1285.62,
-    "credit": null,
-    "category": 4
+    "date": "2020-11-28T09:31:55Z",
+    "transaction_code": "HE7602XE",
+    "payee": "Tavu",
+    "debit": 379.89,
+    "credit": 0,
+    "category": 11
   },
   {
     "id": 35,
-    "date": "2020-01-22T15:01:05Z",
-    "transaction_code": "BJ0493QF",
-    "payee": "Oyoyo",
-    "debit": 3909.59,
-    "credit": null,
-    "category": 8
+    "date": "2020-08-05T05:46:25Z",
+    "transaction_code": "IZ8378KN",
+    "payee": "Kamba",
+    "debit": 3838.02,
+    "credit": 0,
+    "category": 14
   },
   {
     "id": 36,
-    "date": "2020-07-30T23:24:16Z",
-    "transaction_code": "IF1086DE",
-    "payee": "Twimbo",
-    "debit": 280.79,
-    "credit": null,
-    "category": 25
+    "date": "2020-10-08T17:49:27Z",
+    "transaction_code": "PW1696GF",
+    "payee": "Agivu",
+    "debit": 629.63,
+    "credit": 0,
+    "category": 8
   },
   {
     "id": 37,
-    "date": "2020-03-02T15:20:35Z",
-    "transaction_code": "NY8271CG",
-    "payee": "Nlounge",
-    "debit": 2118.44,
-    "credit": null,
-    "category": 25
+    "date": "2020-02-05T02:27:37Z",
+    "transaction_code": "XF1961YH",
+    "payee": "Katz",
+    "debit": 3079.86,
+    "credit": 0,
+    "category": 15
   },
   {
     "id": 38,
-    "date": "2020-08-12T19:41:37Z",
-    "transaction_code": "RC5134BK",
-    "payee": "Buzzdog",
-    "debit": 2400.64,
-    "credit": null,
-    "category": 6
+    "date": "2020-11-01T11:36:57Z",
+    "transaction_code": "BD8696CC",
+    "payee": "Quaxo",
+    "debit": 0,
+    "credit": 135,
+    "category": 31
   },
   {
     "id": 39,
-    "date": "2020-04-09T00:16:09Z",
-    "transaction_code": "BG1961GL",
-    "payee": "Dablist",
-    "debit": 1441.8,
-    "credit": null,
-    "category": 15
+    "date": "2020-01-15T03:03:10Z",
+    "transaction_code": "PJ6441MT",
+    "payee": "Trupe",
+    "debit": 3587.25,
+    "credit": 0,
+    "category": 26
   },
   {
     "id": 40,
-    "date": "2020-04-10T14:04:50Z",
-    "transaction_code": "AJ9682BI",
-    "payee": "Feedbug",
-    "debit": 3499.27,
-    "credit": null,
-    "category": 27
+    "date": "2020-06-04T06:39:59Z",
+    "transaction_code": "RS0120RH",
+    "payee": "Aimbo",
+    "debit": 3890.97,
+    "credit": 0,
+    "category": 21
   },
   {
     "id": 41,
-    "date": "2020-06-26T07:01:39Z",
-    "transaction_code": "BP3004NM",
-    "payee": "Tagpad",
-    "debit": 1750.97,
-    "credit": null,
-    "category": 5
+    "date": "2020-01-21T11:39:52Z",
+    "transaction_code": "CS4026GL",
+    "payee": "Kwilith",
+    "debit": 3088.06,
+    "credit": 0,
+    "category": 18
   },
   {
     "id": 42,
-    "date": "2020-10-27T17:07:38Z",
-    "transaction_code": "DJ6674KI",
-    "payee": "Kwilith",
-    "debit": 1655.07,
-    "credit": null,
-    "category": 24
+    "date": "2020-01-25T02:35:38Z",
+    "transaction_code": "KM6342JY",
+    "payee": "Browsedrive",
+    "debit": 0,
+    "credit": 1652,
+    "category": 32
   },
   {
     "id": 43,
-    "date": "2020-12-02T10:00:21Z",
-    "transaction_code": "UB6289TK",
-    "payee": "Muxo",
-    "debit": 1266.62,
-    "credit": null,
-    "category": 17
-  },
-  {
-    "id": 44,
-    "date": "2020-09-27T04:29:01Z",
-    "transaction_code": "ZF8029VL",
-    "payee": "Agimba",
-    "debit": 488.02,
-    "credit": null,
-    "category": 26
-  },
-  {
-    "id": 45,
-    "date": "2020-12-15T08:16:03Z",
-    "transaction_code": "HK4167LL",
-    "payee": "Eamia",
-    "debit": 2388.32,
-    "credit": null,
-    "category": 8
-  },
-  {
-    "id": 46,
-    "date": "2020-09-30T15:57:21Z",
-    "transaction_code": "CX2638YD",
-    "payee": "Leenti",
-    "debit": 3990.82,
-    "credit": null,
-    "category": 10
-  },
-  {
-    "id": 47,
-    "date": "2020-04-10T18:57:30Z",
-    "transaction_code": "HA0698ZA",
-    "payee": "Gigashots",
-    "debit": 3994.22,
-    "credit": null,
-    "category": 18
-  },
-  {
-    "id": 48,
-    "date": "2020-08-07T09:04:56Z",
-    "transaction_code": "IR7622SG",
-    "payee": "Devpoint",
-    "debit": null,
-    "credit": 3542,
-    "category": 7
-  },
-  {
-    "id": 49,
-    "date": "2020-05-13T02:59:42Z",
-    "transaction_code": "VT7778EG",
-    "payee": "Twinder",
-    "debit": 3653.27,
-    "credit": null,
-    "category": 12
-  },
-  {
-    "id": 50,
-    "date": "2020-12-18T14:36:20Z",
-    "transaction_code": "VQ6931PE",
-    "payee": "Agivu",
-    "debit": 1753.23,
-    "credit": null,
-    "category": 15
-  },
-  {
-    "id": 51,
-    "date": "2020-07-04T02:57:13Z",
-    "transaction_code": "JP4330ML",
-    "payee": "Fanoodle",
-    "debit": 2773.54,
-    "credit": null,
-    "category": 22
-  },
-  {
-    "id": 52,
-    "date": "2020-03-22T03:47:28Z",
-    "transaction_code": "CN6680MT",
-    "payee": "Eayo",
-    "debit": null,
-    "credit": 1401,
-    "category": 11
-  },
-  {
-    "id": 53,
-    "date": "2020-07-13T04:34:37Z",
-    "transaction_code": "GI6462VM",
-    "payee": "Devify",
-    "debit": 3185.58,
-    "credit": null,
-    "category": 15
-  },
-  {
-    "id": 54,
-    "date": "2020-11-09T17:37:19Z",
-    "transaction_code": "PJ7584ZG",
-    "payee": "Fadeo",
-    "debit": null,
-    "credit": 1571,
-    "category": 11
-  },
-  {
-    "id": 55,
-    "date": "2020-01-26T11:23:34Z",
-    "transaction_code": "SV5286IP",
-    "payee": "Wikibox",
-    "debit": null,
-    "credit": 784,
-    "category": 6
-  },
-  {
-    "id": 56,
-    "date": "2020-09-09T12:45:22Z",
-    "transaction_code": "CZ8467MV",
-    "payee": "Eimbee",
-    "debit": 2325.87,
-    "credit": null,
-    "category": 15
-  },
-  {
-    "id": 57,
-    "date": "2020-10-09T07:54:31Z",
-    "transaction_code": "YH0431SS",
-    "payee": "Abata",
-    "debit": null,
-    "credit": 1722,
-    "category": 25
-  },
-  {
-    "id": 58,
-    "date": "2020-12-03T15:23:34Z",
-    "transaction_code": "VS2037RX",
-    "payee": "Twimbo",
-    "debit": 1183.88,
-    "credit": null,
-    "category": 19
-  },
-  {
-    "id": 59,
-    "date": "2020-07-30T10:57:29Z",
-    "transaction_code": "WZ1620ZQ",
-    "payee": "Voolia",
-    "debit": 2760.0,
-    "credit": null,
-    "category": 11
-  },
-  {
-    "id": 60,
-    "date": "2020-06-30T11:28:27Z",
-    "transaction_code": "CY1639RF",
-    "payee": "Yotz",
-    "debit": null,
-    "credit": 615,
-    "category": 0
-  },
-  {
-    "id": 61,
-    "date": "2020-12-01T18:55:48Z",
-    "transaction_code": "LF5394WX",
-    "payee": "Buzzdog",
-    "debit": 3816.98,
-    "credit": null,
-    "category": 2
-  },
-  {
-    "id": 62,
-    "date": "2020-09-01T09:16:34Z",
-    "transaction_code": "OD6821XK",
-    "payee": "Zoomcast",
-    "debit": 3946.6,
-    "credit": null,
-    "category": 15
-  },
-  {
-    "id": 63,
-    "date": "2020-01-08T16:51:08Z",
-    "transaction_code": "ZZ1517ZC",
-    "payee": "Skilith",
-    "debit": null,
-    "credit": 432,
-    "category": 26
-  },
-  {
-    "id": 64,
-    "date": "2020-04-20T14:24:49Z",
-    "transaction_code": "ZH9822AI",
-    "payee": "Jaloo",
-    "debit": 2703.76,
-    "credit": null,
-    "category": 22
-  },
-  {
-    "id": 65,
-    "date": "2020-02-09T04:47:12Z",
-    "transaction_code": "DQ9235XS",
-    "payee": "Brightbean",
-    "debit": 661.04,
-    "credit": null,
-    "category": 13
-  },
-  {
-    "id": 66,
-    "date": "2020-12-25T15:41:40Z",
-    "transaction_code": "BE6335VO",
-    "payee": "Thoughtblab",
-    "debit": 3805.54,
-    "credit": null,
-    "category": 6
-  },
-  {
-    "id": 67,
-    "date": "2020-04-08T05:30:23Z",
-    "transaction_code": "RC6190PG",
-    "payee": "Gabcube",
-    "debit": null,
-    "credit": 1985,
-    "category": 22
-  },
-  {
-    "id": 68,
-    "date": "2020-04-17T02:39:18Z",
-    "transaction_code": "NO6313OY",
-    "payee": "Twinte",
-    "debit": 2430.04,
-    "credit": null,
-    "category": 3
-  },
-  {
-    "id": 69,
-    "date": "2020-02-04T08:24:43Z",
-    "transaction_code": "WX6324YT",
-    "payee": "Voolith",
-    "debit": 1664.04,
-    "credit": null,
-    "category": 23
-  },
-  {
-    "id": 70,
-    "date": "2020-04-29T01:06:32Z",
-    "transaction_code": "RB0670TU",
-    "payee": "Wordtune",
-    "debit": 1092.09,
-    "credit": null,
-    "category": 25
-  },
-  {
-    "id": 71,
-    "date": "2020-03-30T17:20:24Z",
-    "transaction_code": "OL0789VG",
-    "payee": "BlogXS",
-    "debit": 467.49,
-    "credit": null,
-    "category": 26
-  },
-  {
-    "id": 72,
-    "date": "2020-04-21T00:47:09Z",
-    "transaction_code": "VV3269PZ",
-    "payee": "Fliptune",
-    "debit": null,
-    "credit": 3580,
-    "category": 17
-  },
-  {
-    "id": 73,
-    "date": "2020-02-09T17:08:25Z",
-    "transaction_code": "FO4556EW",
-    "payee": "Abata",
-    "debit": 1789.09,
-    "credit": null,
-    "category": 2
-  },
-  {
-    "id": 74,
-    "date": "2020-03-09T06:52:35Z",
-    "transaction_code": "JW3549GH",
-    "payee": "Cogilith",
-    "debit": 939.24,
-    "credit": null,
-    "category": 23
-  },
-  {
-    "id": 75,
-    "date": "2020-08-30T10:28:17Z",
-    "transaction_code": "GO8523RN",
-    "payee": "Zoovu",
-    "debit": null,
-    "credit": 600,
+    "date": "2020-12-13T10:03:14Z",
+    "transaction_code": "XW2132ED",
+    "payee": "Jazzy",
+    "debit": 1799.19,
+    "credit": 0,
     "category": 4
   },
   {
-    "id": 76,
-    "date": "2020-09-26T15:06:56Z",
-    "transaction_code": "MU3694XD",
-    "payee": "Skinder",
-    "debit": 3064.76,
-    "credit": null,
-    "category": 26
+    "id": 44,
+    "date": "2020-02-09T20:31:08Z",
+    "transaction_code": "NT6236OT",
+    "payee": "Pixonyx",
+    "debit": 723.71,
+    "credit": 0,
+    "category": 20
   },
   {
-    "id": 77,
-    "date": "2020-08-30T02:00:34Z",
-    "transaction_code": "UF6654IG",
-    "payee": "Yamia",
-    "debit": 2418.16,
-    "credit": null,
-    "category": 25
+    "id": 45,
+    "date": "2020-10-03T05:44:06Z",
+    "transaction_code": "MC6851UQ",
+    "payee": "Wikido",
+    "debit": 991.81,
+    "credit": 0,
+    "category": 7
   },
   {
-    "id": 78,
-    "date": "2020-05-15T08:24:03Z",
-    "transaction_code": "QJ3980IF",
-    "payee": "Edgetag",
-    "debit": 138.37,
-    "credit": null,
-    "category": 10
+    "id": 46,
+    "date": "2020-08-02T01:38:54Z",
+    "transaction_code": "TJ0821XR",
+    "payee": "Babbleblab",
+    "debit": 0,
+    "credit": 972,
+    "category": 31
   },
   {
-    "id": 79,
-    "date": "2020-06-21T16:12:41Z",
-    "transaction_code": "DV1157DE",
-    "payee": "Gigashots",
-    "debit": 862.67,
-    "credit": null,
-    "category": 13
-  },
-  {
-    "id": 80,
-    "date": "2020-01-18T06:25:54Z",
-    "transaction_code": "RN4748OX",
-    "payee": "Livetube",
-    "debit": 2853.98,
-    "credit": null,
-    "category": 0
-  },
-  {
-    "id": 81,
-    "date": "2020-02-20T00:41:18Z",
-    "transaction_code": "AS3910RV",
-    "payee": "Realcube",
-    "debit": 2445.59,
-    "credit": null,
-    "category": 9
-  },
-  {
-    "id": 82,
-    "date": "2020-09-24T18:36:07Z",
-    "transaction_code": "CO9574DA",
-    "payee": "Babbleset",
-    "debit": null,
-    "credit": 3557,
-    "category": 8
-  },
-  {
-    "id": 83,
-    "date": "2020-05-24T01:13:26Z",
-    "transaction_code": "OR8716JU",
-    "payee": "Mydeo",
-    "debit": 3277.74,
-    "credit": null,
-    "category": 24
-  },
-  {
-    "id": 84,
-    "date": "2020-08-19T08:00:01Z",
-    "transaction_code": "ZC3725GI",
-    "payee": "Muxo",
-    "debit": 1264.1,
-    "credit": null,
+    "id": 47,
+    "date": "2020-02-14T16:58:33Z",
+    "transaction_code": "PC6183VU",
+    "payee": "Layo",
+    "debit": 295.87,
+    "credit": 0,
     "category": 19
   },
   {
-    "id": 85,
-    "date": "2020-10-26T07:42:53Z",
-    "transaction_code": "DB0301TD",
-    "payee": "Skinte",
-    "debit": 3765.38,
-    "credit": null,
+    "id": 48,
+    "date": "2020-04-25T01:27:47Z",
+    "transaction_code": "KX5685SZ",
+    "payee": "Vitz",
+    "debit": 1857.56,
+    "credit": 0,
     "category": 22
   },
   {
-    "id": 86,
-    "date": "2020-04-01T11:58:58Z",
-    "transaction_code": "ZD5373GU",
-    "payee": "Meembee",
-    "debit": 3387.1,
-    "credit": null,
-    "category": 24
+    "id": 49,
+    "date": "2020-05-05T15:12:44Z",
+    "transaction_code": "ZB8252VV",
+    "payee": "Youfeed",
+    "debit": 1201.05,
+    "credit": 0,
+    "category": 13
   },
   {
-    "id": 87,
-    "date": "2020-06-08T09:48:08Z",
-    "transaction_code": "ID1980VK",
-    "payee": "Devshare",
-    "debit": 846.3,
-    "credit": null,
-    "category": 27
+    "id": 50,
+    "date": "2020-03-09T12:31:06Z",
+    "transaction_code": "AM1680KT",
+    "payee": "Skinder",
+    "debit": 0,
+    "credit": 1236,
+    "category": 29
   },
   {
-    "id": 88,
-    "date": "2020-06-05T07:52:38Z",
-    "transaction_code": "NH0032BS",
-    "payee": "Blogtag",
-    "debit": 2456.92,
-    "credit": null,
-    "category": 3
+    "id": 51,
+    "date": "2020-01-31T20:04:03Z",
+    "transaction_code": "LQ4938LR",
+    "payee": "Yoveo",
+    "debit": 1729.1,
+    "credit": 0,
+    "category": 19
   },
   {
-    "id": 89,
-    "date": "2020-05-26T00:41:54Z",
-    "transaction_code": "RZ2424NP",
-    "payee": "Vipe",
-    "debit": 1084.21,
-    "credit": null,
-    "category": 9
-  },
-  {
-    "id": 90,
-    "date": "2020-11-24T17:30:17Z",
-    "transaction_code": "ND8147QB",
-    "payee": "Zoomlounge",
-    "debit": 407.95,
-    "credit": null,
-    "category": 18
-  },
-  {
-    "id": 91,
-    "date": "2020-08-28T07:41:50Z",
-    "transaction_code": "WK6987BW",
-    "payee": "Realfire",
-    "debit": 807.9,
-    "credit": null,
-    "category": 11
-  },
-  {
-    "id": 92,
-    "date": "2020-11-19T01:00:31Z",
-    "transaction_code": "SN1555XI",
-    "payee": "Gigashots",
-    "debit": 3316.99,
-    "credit": null,
-    "category": 6
-  },
-  {
-    "id": 93,
-    "date": "2020-06-11T18:59:35Z",
-    "transaction_code": "YQ2568YO",
-    "payee": "Yakitri",
-    "debit": null,
-    "credit": 562,
-    "category": 17
-  },
-  {
-    "id": 94,
-    "date": "2020-01-23T06:10:21Z",
-    "transaction_code": "PU6278FF",
-    "payee": "Meejo",
-    "debit": 2125.68,
-    "credit": null,
-    "category": 17
-  },
-  {
-    "id": 95,
-    "date": "2020-02-13T17:23:24Z",
-    "transaction_code": "MG4269UX",
-    "payee": "Flipopia",
-    "debit": null,
-    "credit": 1653,
-    "category": 1
-  },
-  {
-    "id": 96,
-    "date": "2020-09-15T19:25:19Z",
-    "transaction_code": "YT3319DN",
-    "payee": "Janyx",
-    "debit": 272.94,
-    "credit": null,
+    "id": 52,
+    "date": "2020-10-24T14:22:35Z",
+    "transaction_code": "KA3505AE",
+    "payee": "Oozz",
+    "debit": 360.12,
+    "credit": 0,
     "category": 23
   },
   {
+    "id": 53,
+    "date": "2020-01-16T08:30:26Z",
+    "transaction_code": "BE7570VC",
+    "payee": "Wordify",
+    "debit": 2422.85,
+    "credit": 0,
+    "category": 4
+  },
+  {
+    "id": 54,
+    "date": "2020-01-16T18:19:30Z",
+    "transaction_code": "LZ3298IL",
+    "payee": "Photojam",
+    "debit": 2779.52,
+    "credit": 0,
+    "category": 23
+  },
+  {
+    "id": 55,
+    "date": "2020-09-01T15:27:53Z",
+    "transaction_code": "DR6523ZP",
+    "payee": "Skipfire",
+    "debit": 3560.29,
+    "credit": 0,
+    "category": 3
+  },
+  {
+    "id": 56,
+    "date": "2020-04-08T16:16:22Z",
+    "transaction_code": "MJ3743NI",
+    "payee": "Divape",
+    "debit": 3334.41,
+    "credit": 0,
+    "category": 14
+  },
+  {
+    "id": 57,
+    "date": "2020-10-21T07:41:27Z",
+    "transaction_code": "TX3051EP",
+    "payee": "Fiveclub",
+    "debit": 0,
+    "credit": 1081,
+    "category": 29
+  },
+  {
+    "id": 58,
+    "date": "2020-03-19T15:08:46Z",
+    "transaction_code": "EL9874JV",
+    "payee": "Zoombox",
+    "debit": 2414.64,
+    "credit": 0,
+    "category": 13
+  },
+  {
+    "id": 59,
+    "date": "2020-01-12T02:38:14Z",
+    "transaction_code": "XS2143IE",
+    "payee": "Browseblab",
+    "debit": 2619.86,
+    "credit": 0,
+    "category": 17
+  },
+  {
+    "id": 60,
+    "date": "2020-08-07T12:05:29Z",
+    "transaction_code": "ZI7961VO",
+    "payee": "Meevee",
+    "debit": 1068.33,
+    "credit": 0,
+    "category": 18
+  },
+  {
+    "id": 61,
+    "date": "2020-07-15T16:22:58Z",
+    "transaction_code": "WF1025BG",
+    "payee": "Yotz",
+    "debit": 1599.07,
+    "credit": 0,
+    "category": 11
+  },
+  {
+    "id": 62,
+    "date": "2020-04-19T19:58:22Z",
+    "transaction_code": "LW5358OL",
+    "payee": "Babbleset",
+    "debit": 605.28,
+    "credit": 0,
+    "category": 10
+  },
+  {
+    "id": 63,
+    "date": "2020-09-27T21:05:21Z",
+    "transaction_code": "PF7274OV",
+    "payee": "Fivespan",
+    "debit": 3813.16,
+    "credit": 0,
+    "category": 18
+  },
+  {
+    "id": 64,
+    "date": "2020-02-24T04:52:52Z",
+    "transaction_code": "RX2614SR",
+    "payee": "Quimba",
+    "debit": 410.69,
+    "credit": 0,
+    "category": 26
+  },
+  {
+    "id": 65,
+    "date": "2020-08-16T03:54:14Z",
+    "transaction_code": "YE2920YS",
+    "payee": "Dynava",
+    "debit": 3858.69,
+    "credit": 0,
+    "category": 10
+  },
+  {
+    "id": 66,
+    "date": "2020-09-22T17:52:37Z",
+    "transaction_code": "UN7286BU",
+    "payee": "Tagfeed",
+    "debit": 303.56,
+    "credit": 0,
+    "category": 10
+  },
+  {
+    "id": 67,
+    "date": "2020-12-02T09:28:21Z",
+    "transaction_code": "UT7949HL",
+    "payee": "Avamm",
+    "debit": 3356.76,
+    "credit": 0,
+    "category": 13
+  },
+  {
+    "id": 68,
+    "date": "2020-09-27T02:38:47Z",
+    "transaction_code": "XP9903LB",
+    "payee": "Gabcube",
+    "debit": 3053.43,
+    "credit": 0,
+    "category": 20
+  },
+  {
+    "id": 69,
+    "date": "2020-01-31T00:40:07Z",
+    "transaction_code": "CP6992SK",
+    "payee": "Gabtune",
+    "debit": 1463.06,
+    "credit": 0,
+    "category": 8
+  },
+  {
+    "id": 70,
+    "date": "2020-10-30T07:50:05Z",
+    "transaction_code": "EZ3173PW",
+    "payee": "Meevee",
+    "debit": 3122.62,
+    "credit": 0,
+    "category": 11
+  },
+  {
+    "id": 71,
+    "date": "2020-03-25T14:26:10Z",
+    "transaction_code": "YE0656ZK",
+    "payee": "Twimbo",
+    "debit": 2740.47,
+    "credit": 0,
+    "category": 6
+  },
+  {
+    "id": 72,
+    "date": "2020-10-07T21:56:04Z",
+    "transaction_code": "XX5524OH",
+    "payee": "Eamia",
+    "debit": 101.25,
+    "credit": 0,
+    "category": 10
+  },
+  {
+    "id": 73,
+    "date": "2020-07-23T04:12:01Z",
+    "transaction_code": "TO3362XN",
+    "payee": "Wordtune",
+    "debit": 0,
+    "credit": 416,
+    "category": 27
+  },
+  {
+    "id": 74,
+    "date": "2020-04-13T00:42:05Z",
+    "transaction_code": "WU6443MX",
+    "payee": "Innotype",
+    "debit": 2755.93,
+    "credit": 0,
+    "category": 12
+  },
+  {
+    "id": 75,
+    "date": "2020-02-03T11:04:47Z",
+    "transaction_code": "ST2503UX",
+    "payee": "Topdrive",
+    "debit": 2250.03,
+    "credit": 0,
+    "category": 23
+  },
+  {
+    "id": 76,
+    "date": "2020-07-15T08:35:18Z",
+    "transaction_code": "HF6193ZD",
+    "payee": "BlogXS",
+    "debit": 909.62,
+    "credit": 0,
+    "category": 13
+  },
+  {
+    "id": 77,
+    "date": "2020-09-07T03:56:27Z",
+    "transaction_code": "SV6150OC",
+    "payee": "Camimbo",
+    "debit": 140.23,
+    "credit": 0,
+    "category": 20
+  },
+  {
+    "id": 78,
+    "date": "2020-05-05T22:08:39Z",
+    "transaction_code": "TL1547DK",
+    "payee": "Oba",
+    "debit": 995.18,
+    "credit": 0,
+    "category": 19
+  },
+  {
+    "id": 79,
+    "date": "2020-02-23T23:23:57Z",
+    "transaction_code": "WD6951QI",
+    "payee": "Quatz",
+    "debit": 363.74,
+    "credit": 0,
+    "category": 26
+  },
+  {
+    "id": 80,
+    "date": "2020-02-12T19:00:19Z",
+    "transaction_code": "RP3274XV",
+    "payee": "Edgeblab",
+    "debit": 808.41,
+    "credit": 0,
+    "category": 19
+  },
+  {
+    "id": 81,
+    "date": "2020-11-07T22:27:43Z",
+    "transaction_code": "HF4121PG",
+    "payee": "Quatz",
+    "debit": 1604.48,
+    "credit": 0,
+    "category": 8
+  },
+  {
+    "id": 82,
+    "date": "2020-11-21T09:17:48Z",
+    "transaction_code": "JQ8097ZF",
+    "payee": "Aimbu",
+    "debit": 3266.29,
+    "credit": 0,
+    "category": 3
+  },
+  {
+    "id": 83,
+    "date": "2020-06-22T17:56:38Z",
+    "transaction_code": "JQ0508VE",
+    "payee": "Wikizz",
+    "debit": 1769.67,
+    "credit": 0,
+    "category": 17
+  },
+  {
+    "id": 84,
+    "date": "2020-06-09T01:51:17Z",
+    "transaction_code": "DX8267KB",
+    "payee": "Jabbercube",
+    "debit": 2123.35,
+    "credit": 0,
+    "category": 15
+  },
+  {
+    "id": 85,
+    "date": "2020-06-03T16:44:00Z",
+    "transaction_code": "OZ9998UA",
+    "payee": "Zoombox",
+    "debit": 1257.14,
+    "credit": 0,
+    "category": 15
+  },
+  {
+    "id": 86,
+    "date": "2020-09-27T21:57:13Z",
+    "transaction_code": "VA8080UH",
+    "payee": "Voonix",
+    "debit": 3807.44,
+    "credit": 0,
+    "category": 2
+  },
+  {
+    "id": 87,
+    "date": "2020-10-30T04:17:39Z",
+    "transaction_code": "QN8077XP",
+    "payee": "Oodoo",
+    "debit": 0,
+    "credit": 3568,
+    "category": 31
+  },
+  {
+    "id": 88,
+    "date": "2020-05-21T20:21:56Z",
+    "transaction_code": "KU0084FR",
+    "payee": "Browsetype",
+    "debit": 1543.33,
+    "credit": 0,
+    "category": 11
+  },
+  {
+    "id": 89,
+    "date": "2020-12-02T10:26:10Z",
+    "transaction_code": "QX5837KA",
+    "payee": "Fliptune",
+    "debit": 3043.29,
+    "credit": 0,
+    "category": 26
+  },
+  {
+    "id": 90,
+    "date": "2020-11-20T06:01:25Z",
+    "transaction_code": "AV8288IL",
+    "payee": "Linklinks",
+    "debit": 1910.56,
+    "credit": 0,
+    "category": 23
+  },
+  {
+    "id": 91,
+    "date": "2020-02-08T08:22:50Z",
+    "transaction_code": "KE8840GT",
+    "payee": "Eayo",
+    "debit": 3620.14,
+    "credit": 0,
+    "category": 19
+  },
+  {
+    "id": 92,
+    "date": "2020-05-29T03:31:06Z",
+    "transaction_code": "KV5417HM",
+    "payee": "Fivebridge",
+    "debit": 3047.67,
+    "credit": 0,
+    "category": 22
+  },
+  {
+    "id": 93,
+    "date": "2020-01-30T17:50:36Z",
+    "transaction_code": "SY3662WM",
+    "payee": "Tagfeed",
+    "debit": 95.81,
+    "credit": 0,
+    "category": 12
+  },
+  {
+    "id": 94,
+    "date": "2020-12-27T21:24:07Z",
+    "transaction_code": "ZN8043OL",
+    "payee": "Voonyx",
+    "debit": 1664.66,
+    "credit": 0,
+    "category": 13
+  },
+  {
+    "id": 95,
+    "date": "2020-10-30T23:14:50Z",
+    "transaction_code": "TN3797VI",
+    "payee": "Shufflebeat",
+    "debit": 1806.78,
+    "credit": 0,
+    "category": 2
+  },
+  {
+    "id": 96,
+    "date": "2020-11-20T19:59:06Z",
+    "transaction_code": "ZC8886MW",
+    "payee": "Meeveo",
+    "debit": 2485.01,
+    "credit": 0,
+    "category": 15
+  },
+  {
     "id": 97,
-    "date": "2020-12-13T21:42:13Z",
-    "transaction_code": "IT4436ES",
-    "payee": "Skibox",
-    "debit": 1206.53,
-    "credit": null,
+    "date": "2020-05-21T11:42:41Z",
+    "transaction_code": "IC3771MY",
+    "payee": "Innojam",
+    "debit": 0,
+    "credit": 1730,
     "category": 27
   },
   {
     "id": 98,
-    "date": "2020-05-19T04:22:37Z",
-    "transaction_code": "FY6204MP",
-    "payee": "Yakijo",
-    "debit": 505.53,
-    "credit": null,
-    "category": 3
+    "date": "2020-12-17T03:39:42Z",
+    "transaction_code": "DR5095NH",
+    "payee": "Browsedrive",
+    "debit": 2486.36,
+    "credit": 0,
+    "category": 10
   },
   {
     "id": 99,
-    "date": "2020-11-01T22:48:59Z",
-    "transaction_code": "ZI4284BK",
-    "payee": "Oyondu",
-    "debit": null,
-    "credit": 1824,
-    "category": 23
+    "date": "2020-09-24T11:54:31Z",
+    "transaction_code": "KN3408VL",
+    "payee": "Eimbee",
+    "debit": 1471.08,
+    "credit": 0,
+    "category": 20
   },
   {
     "id": 100,
-    "date": "2020-02-18T06:15:27Z",
-    "transaction_code": "BG5481WX",
-    "payee": "Tazz",
-    "debit": 333.95,
-    "credit": null,
-    "category": 7
+    "date": "2020-11-14T23:48:42Z",
+    "transaction_code": "XO3432FF",
+    "payee": "Yakijo",
+    "debit": 318.57,
+    "credit": 0,
+    "category": 16
   },
   {
     "id": 101,
-    "date": "2020-12-07T19:35:45Z",
-    "transaction_code": "TV6140HU",
-    "payee": "Quimm",
-    "debit": 3928.76,
-    "credit": null,
-    "category": 1
+    "date": "2020-05-01T11:26:05Z",
+    "transaction_code": "EX8271HG",
+    "payee": "Centizu",
+    "debit": 3028.65,
+    "credit": 0,
+    "category": 18
   },
   {
     "id": 102,
-    "date": "2020-06-29T06:42:11Z",
-    "transaction_code": "PW1340BL",
-    "payee": "Wikizz",
-    "debit": null,
-    "credit": 3433,
-    "category": 12
+    "date": "2020-09-28T02:55:35Z",
+    "transaction_code": "QY7410PP",
+    "payee": "Jamia",
+    "debit": 0,
+    "credit": 3744,
+    "category": 31
   },
   {
     "id": 103,
-    "date": "2020-04-01T13:13:50Z",
-    "transaction_code": "ON1769PA",
-    "payee": "Zoonoodle",
-    "debit": 324.8,
-    "credit": null,
-    "category": 18
+    "date": "2020-02-02T08:48:36Z",
+    "transaction_code": "KY5463WY",
+    "payee": "Zoomlounge",
+    "debit": 1321.46,
+    "credit": 0,
+    "category": 20
   },
   {
     "id": 104,
-    "date": "2020-12-25T14:15:21Z",
-    "transaction_code": "ZE3886PY",
-    "payee": "Kwimbee",
-    "debit": null,
-    "credit": 2287,
-    "category": 26
+    "date": "2020-09-25T00:43:08Z",
+    "transaction_code": "CT7330GS",
+    "payee": "Fivechat",
+    "debit": 0,
+    "credit": 3323,
+    "category": 32
   },
   {
     "id": 105,
-    "date": "2020-07-15T05:31:39Z",
-    "transaction_code": "AJ4119TJ",
-    "payee": "Dablist",
-    "debit": 2717.13,
-    "credit": null,
-    "category": 24
+    "date": "2020-03-17T21:37:58Z",
+    "transaction_code": "BV9986LH",
+    "payee": "Mynte",
+    "debit": 2782.44,
+    "credit": 0,
+    "category": 11
   },
   {
     "id": 106,
-    "date": "2020-12-14T16:08:06Z",
-    "transaction_code": "MO5058RA",
-    "payee": "Edgeify",
-    "debit": 3124.42,
-    "credit": null,
-    "category": 10
-  },
-  {
-    "id": 107,
-    "date": "2020-07-02T00:22:06Z",
-    "transaction_code": "GD7713ZG",
-    "payee": "Topicstorm",
-    "debit": 2034.18,
-    "credit": null,
-    "category": 12
-  },
-  {
-    "id": 108,
-    "date": "2020-11-06T17:21:59Z",
-    "transaction_code": "DL6727HA",
-    "payee": "Oloo",
-    "debit": 1954.0,
-    "credit": null,
-    "category": 22
-  },
-  {
-    "id": 109,
-    "date": "2020-02-01T09:23:42Z",
-    "transaction_code": "HB0768AR",
-    "payee": "Babbleblab",
-    "debit": null,
-    "credit": 296,
-    "category": 22
-  },
-  {
-    "id": 110,
-    "date": "2020-12-10T23:46:09Z",
-    "transaction_code": "AN0878MV",
-    "payee": "Tazz",
-    "debit": 3933.12,
-    "credit": null,
-    "category": 4
-  },
-  {
-    "id": 111,
-    "date": "2020-04-20T05:15:16Z",
-    "transaction_code": "PY3276TV",
-    "payee": "Livepath",
-    "debit": 3949.58,
-    "credit": null,
-    "category": 7
-  },
-  {
-    "id": 112,
-    "date": "2020-11-25T20:12:49Z",
-    "transaction_code": "MV1528GT",
-    "payee": "Livefish",
-    "debit": null,
-    "credit": 2323,
-    "category": 8
-  },
-  {
-    "id": 113,
-    "date": "2020-01-01T23:46:24Z",
-    "transaction_code": "WH4639GH",
-    "payee": "Kwinu",
-    "debit": 829.87,
-    "credit": null,
-    "category": 4
-  },
-  {
-    "id": 114,
-    "date": "2020-07-22T05:08:55Z",
-    "transaction_code": "KI9858GU",
-    "payee": "Flipopia",
-    "debit": 1472.88,
-    "credit": null,
-    "category": 19
-  },
-  {
-    "id": 115,
-    "date": "2020-01-15T23:05:26Z",
-    "transaction_code": "ZZ7919TR",
-    "payee": "Avavee",
-    "debit": 3785.64,
-    "credit": null,
-    "category": 21
-  },
-  {
-    "id": 116,
-    "date": "2020-08-31T17:14:28Z",
-    "transaction_code": "XT5313NK",
-    "payee": "Vinder",
-    "debit": null,
-    "credit": 1683,
-    "category": 18
-  },
-  {
-    "id": 117,
-    "date": "2020-09-16T03:17:38Z",
-    "transaction_code": "QT6332AU",
-    "payee": "Devcast",
-    "debit": 1490.47,
-    "credit": null,
-    "category": 0
-  },
-  {
-    "id": 118,
-    "date": "2020-01-08T13:47:09Z",
-    "transaction_code": "QB3666CY",
-    "payee": "Gigazoom",
-    "debit": 3458.94,
-    "credit": null,
-    "category": 10
-  },
-  {
-    "id": 119,
-    "date": "2020-08-29T14:22:59Z",
-    "transaction_code": "PK2304ZG",
-    "payee": "Twitternation",
-    "debit": null,
-    "credit": 2386,
+    "date": "2020-10-20T03:55:01Z",
+    "transaction_code": "VM0455GV",
+    "payee": "Photobug",
+    "debit": 432.52,
+    "credit": 0,
     "category": 23
   },
   {
-    "id": 120,
-    "date": "2020-07-20T23:12:28Z",
-    "transaction_code": "EH2229NB",
-    "payee": "Dynazzy",
-    "debit": null,
-    "credit": 748,
-    "category": 5
+    "id": 107,
+    "date": "2020-08-19T06:55:20Z",
+    "transaction_code": "QR3221DR",
+    "payee": "Avamm",
+    "debit": 598.77,
+    "credit": 0,
+    "category": 20
   },
   {
-    "id": 121,
-    "date": "2020-02-03T05:15:50Z",
-    "transaction_code": "HM4767GG",
-    "payee": "Twitterlist",
-    "debit": 1033.36,
-    "credit": null,
+    "id": 108,
+    "date": "2020-07-15T18:21:25Z",
+    "transaction_code": "HN2171VY",
+    "payee": "Jaxnation",
+    "debit": 838.87,
+    "credit": 0,
+    "category": 4
+  },
+  {
+    "id": 109,
+    "date": "2020-05-09T19:15:52Z",
+    "transaction_code": "UK1516VX",
+    "payee": "Zoomlounge",
+    "debit": 3287.12,
+    "credit": 0,
+    "category": 23
+  },
+  {
+    "id": 110,
+    "date": "2020-03-07T16:20:13Z",
+    "transaction_code": "NW7191PW",
+    "payee": "Oodoo",
+    "debit": 935.48,
+    "credit": 0,
+    "category": 18
+  },
+  {
+    "id": 111,
+    "date": "2020-12-05T15:13:31Z",
+    "transaction_code": "MI9792MY",
+    "payee": "Kwideo",
+    "debit": 1544.22,
+    "credit": 0,
+    "category": 4
+  },
+  {
+    "id": 112,
+    "date": "2020-05-28T05:33:20Z",
+    "transaction_code": "IE5688OQ",
+    "payee": "Divavu",
+    "debit": 1626.91,
+    "credit": 0,
     "category": 12
   },
   {
-    "id": 122,
-    "date": "2020-10-07T04:06:41Z",
-    "transaction_code": "LX5357BR",
-    "payee": "Twitterbridge",
-    "debit": 902.81,
-    "credit": null,
+    "id": 113,
+    "date": "2020-05-22T16:47:33Z",
+    "transaction_code": "BQ1185FJ",
+    "payee": "Devpoint",
+    "debit": 2145.68,
+    "credit": 0,
+    "category": 17
+  },
+  {
+    "id": 114,
+    "date": "2020-12-11T05:56:04Z",
+    "transaction_code": "ES7625OL",
+    "payee": "Meevee",
+    "debit": 1193.61,
+    "credit": 0,
+    "category": 13
+  },
+  {
+    "id": 115,
+    "date": "2020-02-28T18:54:04Z",
+    "transaction_code": "RI6477XM",
+    "payee": "Realbuzz",
+    "debit": 3948.75,
+    "credit": 0,
+    "category": 11
+  },
+  {
+    "id": 116,
+    "date": "2020-11-18T13:41:50Z",
+    "transaction_code": "WD2112WP",
+    "payee": "Shuffletag",
+    "debit": 2020.76,
+    "credit": 0,
+    "category": 23
+  },
+  {
+    "id": 117,
+    "date": "2020-06-22T01:37:01Z",
+    "transaction_code": "SQ2904WO",
+    "payee": "Myworks",
+    "debit": 2240.94,
+    "credit": 0,
     "category": 7
   },
   {
+    "id": 118,
+    "date": "2020-08-15T23:42:07Z",
+    "transaction_code": "DI7687ZW",
+    "payee": "Yodoo",
+    "debit": 1241.42,
+    "credit": 0,
+    "category": 4
+  },
+  {
+    "id": 119,
+    "date": "2020-10-03T21:55:17Z",
+    "transaction_code": "BX9970ZA",
+    "payee": "Divape",
+    "debit": 2103.75,
+    "credit": 0,
+    "category": 21
+  },
+  {
+    "id": 120,
+    "date": "2020-08-03T16:53:02Z",
+    "transaction_code": "GJ7300TB",
+    "payee": "Yabox",
+    "debit": 3622.12,
+    "credit": 0,
+    "category": 10
+  },
+  {
+    "id": 121,
+    "date": "2020-10-24T21:52:23Z",
+    "transaction_code": "HF5896ZW",
+    "payee": "Dabvine",
+    "debit": 1784.56,
+    "credit": 0,
+    "category": 17
+  },
+  {
+    "id": 122,
+    "date": "2020-11-01T23:32:18Z",
+    "transaction_code": "LT3532RA",
+    "payee": "Meedoo",
+    "debit": 3556.45,
+    "credit": 0,
+    "category": 25
+  },
+  {
     "id": 123,
-    "date": "2020-07-30T03:39:04Z",
-    "transaction_code": "CP9585WV",
-    "payee": "DabZ",
-    "debit": null,
-    "credit": 3494,
+    "date": "2020-11-05T10:47:27Z",
+    "transaction_code": "CJ4956LK",
+    "payee": "Jabbersphere",
+    "debit": 1612.17,
+    "credit": 0,
     "category": 5
   },
   {
     "id": 124,
-    "date": "2020-11-19T00:20:00Z",
-    "transaction_code": "QX0214YR",
-    "payee": "JumpXS",
-    "debit": null,
-    "credit": 2860,
-    "category": 12
+    "date": "2020-10-08T23:38:47Z",
+    "transaction_code": "WS2597CN",
+    "payee": "Zava",
+    "debit": 3478.44,
+    "credit": 0,
+    "category": 4
   },
   {
     "id": 125,
-    "date": "2020-07-07T07:41:51Z",
-    "transaction_code": "TA2968ET",
-    "payee": "Linkbuzz",
-    "debit": null,
-    "credit": 2111,
-    "category": 16
+    "date": "2020-01-03T11:35:59Z",
+    "transaction_code": "CV3859EU",
+    "payee": "Viva",
+    "debit": 1556.34,
+    "credit": 0,
+    "category": 17
   },
   {
     "id": 126,
-    "date": "2020-08-14T04:19:54Z",
-    "transaction_code": "MD2049GX",
-    "payee": "Meemm",
-    "debit": 1276.59,
-    "credit": null,
-    "category": 7
+    "date": "2020-07-17T05:18:15Z",
+    "transaction_code": "RU9507GH",
+    "payee": "Ntag",
+    "debit": 0,
+    "credit": 1470,
+    "category": 30
   },
   {
     "id": 127,
-    "date": "2020-08-02T15:15:30Z",
-    "transaction_code": "ON1037OK",
-    "payee": "Myworks",
-    "debit": 402.03,
-    "credit": null,
-    "category": 11
+    "date": "2020-04-04T23:50:49Z",
+    "transaction_code": "JF0224FE",
+    "payee": "Thoughtstorm",
+    "debit": 2428.01,
+    "credit": 0,
+    "category": 5
   },
   {
     "id": 128,
-    "date": "2020-07-28T11:55:39Z",
-    "transaction_code": "MW1233NV",
-    "payee": "Babbleset",
-    "debit": 922.9,
-    "credit": null,
-    "category": 14
-  },
-  {
-    "id": 129,
-    "date": "2020-04-21T19:33:07Z",
-    "transaction_code": "JY2035NJ",
-    "payee": "Browsedrive",
-    "debit": null,
-    "credit": 1004,
-    "category": 24
-  },
-  {
-    "id": 130,
-    "date": "2020-10-14T18:24:19Z",
-    "transaction_code": "YZ6442VB",
-    "payee": "Yombu",
-    "debit": 3542.36,
-    "credit": null,
-    "category": 25
-  },
-  {
-    "id": 131,
-    "date": "2020-08-22T09:41:14Z",
-    "transaction_code": "IE4504WZ",
-    "payee": "Flashset",
-    "debit": 1942.17,
-    "credit": null,
+    "date": "2020-04-01T09:16:22Z",
+    "transaction_code": "NU6996IZ",
+    "payee": "Brainbox",
+    "debit": 237.02,
+    "credit": 0,
     "category": 7
   },
   {
+    "id": 129,
+    "date": "2020-09-22T07:05:11Z",
+    "transaction_code": "ZU0510KZ",
+    "payee": "Riffpedia",
+    "debit": 1207.96,
+    "credit": 0,
+    "category": 7
+  },
+  {
+    "id": 130,
+    "date": "2020-09-03T20:57:40Z",
+    "transaction_code": "RN2662ZJ",
+    "payee": "Divanoodle",
+    "debit": 2682.36,
+    "credit": 0,
+    "category": 24
+  },
+  {
+    "id": 131,
+    "date": "2020-09-18T02:18:25Z",
+    "transaction_code": "GG5747ZB",
+    "payee": "Yozio",
+    "debit": 2442.4,
+    "credit": 0,
+    "category": 10
+  },
+  {
     "id": 132,
-    "date": "2020-05-08T07:03:57Z",
-    "transaction_code": "YQ0293TY",
-    "payee": "Yambee",
-    "debit": null,
-    "credit": 128,
-    "category": 1
+    "date": "2020-05-28T10:50:58Z",
+    "transaction_code": "TH9522TZ",
+    "payee": "Yakijo",
+    "debit": 0,
+    "credit": 236,
+    "category": 30
   },
   {
     "id": 133,
-    "date": "2020-05-14T06:33:26Z",
-    "transaction_code": "PT1237BF",
-    "payee": "Flipbug",
-    "debit": null,
-    "credit": 493,
+    "date": "2020-01-06T01:48:53Z",
+    "transaction_code": "UJ6960OV",
+    "payee": "Wordware",
+    "debit": 3234.87,
+    "credit": 0,
     "category": 9
   },
   {
     "id": 134,
-    "date": "2020-06-26T07:37:48Z",
-    "transaction_code": "AW4225XD",
-    "payee": "Camido",
-    "debit": 1482.47,
-    "credit": null,
-    "category": 20
+    "date": "2020-10-25T17:57:13Z",
+    "transaction_code": "AS7646KV",
+    "payee": "Thoughtstorm",
+    "debit": 652.97,
+    "credit": 0,
+    "category": 7
   },
   {
     "id": 135,
-    "date": "2020-06-27T01:09:32Z",
-    "transaction_code": "GD5402HN",
-    "payee": "Livetube",
-    "debit": null,
-    "credit": 386,
-    "category": 6
+    "date": "2020-05-03T17:26:55Z",
+    "transaction_code": "PG0029CJ",
+    "payee": "Riffpedia",
+    "debit": 3871.49,
+    "credit": 0,
+    "category": 16
   },
   {
     "id": 136,
-    "date": "2020-12-05T22:15:46Z",
-    "transaction_code": "XR0528EV",
-    "payee": "Photobean",
-    "debit": 2428.11,
-    "credit": null,
-    "category": 3
+    "date": "2020-01-28T15:44:13Z",
+    "transaction_code": "ZJ0676AZ",
+    "payee": "Dynabox",
+    "debit": 0,
+    "credit": 51,
+    "category": 29
   },
   {
     "id": 137,
-    "date": "2020-03-11T18:24:43Z",
-    "transaction_code": "YZ2507EJ",
-    "payee": "Fivechat",
-    "debit": 2997.57,
-    "credit": null,
-    "category": 0
+    "date": "2020-09-08T22:37:42Z",
+    "transaction_code": "ZC0709RQ",
+    "payee": "Devcast",
+    "debit": 561.49,
+    "credit": 0,
+    "category": 1
   },
   {
     "id": 138,
-    "date": "2020-12-17T23:44:04Z",
-    "transaction_code": "LU1267BH",
-    "payee": "Skivee",
-    "debit": 2843.57,
-    "credit": null,
-    "category": 15
-  },
-  {
-    "id": 139,
-    "date": "2020-04-14T23:54:37Z",
-    "transaction_code": "VO0559CB",
-    "payee": "Babblestorm",
-    "debit": 3430.4,
-    "credit": null,
+    "date": "2020-09-24T13:36:15Z",
+    "transaction_code": "OQ4694RN",
+    "payee": "Zava",
+    "debit": 1550.28,
+    "credit": 0,
     "category": 25
   },
   {
+    "id": 139,
+    "date": "2020-11-11T16:54:45Z",
+    "transaction_code": "RK9341FU",
+    "payee": "Edgepulse",
+    "debit": 3128.68,
+    "credit": 0,
+    "category": 6
+  },
+  {
     "id": 140,
-    "date": "2020-11-18T13:10:05Z",
-    "transaction_code": "KM0866LJ",
-    "payee": "Gigashots",
-    "debit": 2948.14,
-    "credit": null,
-    "category": 20
+    "date": "2020-10-21T02:24:04Z",
+    "transaction_code": "PJ6248LF",
+    "payee": "Buzzbean",
+    "debit": 3883.69,
+    "credit": 0,
+    "category": 17
   },
   {
     "id": 141,
-    "date": "2020-08-19T02:00:51Z",
-    "transaction_code": "FH2061ZU",
-    "payee": "Browsecat",
-    "debit": 2661.88,
-    "credit": null,
+    "date": "2020-10-09T22:38:39Z",
+    "transaction_code": "KE8241AQ",
+    "payee": "Dabtype",
+    "debit": 3503.02,
+    "credit": 0,
     "category": 13
   },
   {
     "id": 142,
-    "date": "2020-11-30T15:20:25Z",
-    "transaction_code": "UX4553UT",
-    "payee": "Gigashots",
-    "debit": null,
-    "credit": 233,
-    "category": 9
-  },
-  {
-    "id": 143,
-    "date": "2020-09-18T03:50:22Z",
-    "transaction_code": "JT8308BH",
-    "payee": "Meeveo",
-    "debit": 1012.69,
-    "credit": null,
-    "category": 4
-  },
-  {
-    "id": 144,
-    "date": "2020-07-12T21:08:56Z",
-    "transaction_code": "WP1995NV",
-    "payee": "Mydo",
-    "debit": 1837.3,
-    "credit": null,
-    "category": 20
-  },
-  {
-    "id": 145,
-    "date": "2020-10-20T13:04:04Z",
-    "transaction_code": "KE5760YW",
-    "payee": "Meejo",
-    "debit": 2238.01,
-    "credit": null,
-    "category": 22
-  },
-  {
-    "id": 146,
-    "date": "2020-03-20T21:27:42Z",
-    "transaction_code": "JR8670FC",
-    "payee": "Skaboo",
-    "debit": 3730.58,
-    "credit": null,
-    "category": 5
-  },
-  {
-    "id": 147,
-    "date": "2020-03-06T06:19:06Z",
-    "transaction_code": "BP4167XJ",
-    "payee": "Jazzy",
-    "debit": null,
-    "credit": 312,
-    "category": 2
-  },
-  {
-    "id": 148,
-    "date": "2020-06-27T04:05:18Z",
-    "transaction_code": "VI4031RY",
-    "payee": "Skinte",
-    "debit": 3182.86,
-    "credit": null,
-    "category": 7
-  },
-  {
-    "id": 149,
-    "date": "2020-06-22T00:48:53Z",
-    "transaction_code": "GM6214ZL",
-    "payee": "Trunyx",
-    "debit": 111.97,
-    "credit": null,
-    "category": 7
-  },
-  {
-    "id": 150,
-    "date": "2020-10-28T03:07:56Z",
-    "transaction_code": "LZ3105LD",
-    "payee": "Tavu",
-    "debit": 1378.45,
-    "credit": null,
-    "category": 0
-  },
-  {
-    "id": 151,
-    "date": "2020-03-13T17:12:05Z",
-    "transaction_code": "LF8525KC",
-    "payee": "Babbleset",
-    "debit": 2674.28,
-    "credit": null,
-    "category": 13
-  },
-  {
-    "id": 152,
-    "date": "2020-02-09T21:55:12Z",
-    "transaction_code": "WM5736JT",
-    "payee": "Rhybox",
-    "debit": 3466.39,
-    "credit": null,
-    "category": 8
-  },
-  {
-    "id": 153,
-    "date": "2020-02-27T11:09:06Z",
-    "transaction_code": "XO9000JL",
-    "payee": "Photospace",
-    "debit": 3382.47,
-    "credit": null,
-    "category": 23
-  },
-  {
-    "id": 154,
-    "date": "2020-07-13T01:05:01Z",
-    "transaction_code": "DI0365KX",
-    "payee": "Rooxo",
-    "debit": 2390.04,
-    "credit": null,
-    "category": 22
-  },
-  {
-    "id": 155,
-    "date": "2020-02-01T03:52:57Z",
-    "transaction_code": "NK5597XR",
-    "payee": "Browsedrive",
-    "debit": 439.86,
-    "credit": null,
-    "category": 22
-  },
-  {
-    "id": 156,
-    "date": "2020-10-09T05:04:38Z",
-    "transaction_code": "EY1935KG",
-    "payee": "Trunyx",
-    "debit": 343.53,
-    "credit": null,
-    "category": 24
-  },
-  {
-    "id": 157,
-    "date": "2020-07-16T20:41:32Z",
-    "transaction_code": "LB2892LP",
-    "payee": "Izio",
-    "debit": 391.59,
-    "credit": null,
-    "category": 11
-  },
-  {
-    "id": 158,
-    "date": "2020-02-15T22:48:50Z",
-    "transaction_code": "PN3699XC",
-    "payee": "Flashpoint",
-    "debit": 2847.29,
-    "credit": null,
-    "category": 11
-  },
-  {
-    "id": 159,
-    "date": "2020-05-30T20:57:13Z",
-    "transaction_code": "OR4731XT",
-    "payee": "Fivespan",
-    "debit": null,
-    "credit": 2245,
-    "category": 4
-  },
-  {
-    "id": 160,
-    "date": "2020-12-15T21:55:10Z",
-    "transaction_code": "CX5306UE",
-    "payee": "Fivespan",
-    "debit": 3773.16,
-    "credit": null,
-    "category": 24
-  },
-  {
-    "id": 161,
-    "date": "2020-09-08T09:58:15Z",
-    "transaction_code": "RK6045JM",
-    "payee": "Flashset",
-    "debit": null,
-    "credit": 3834,
-    "category": 16
-  },
-  {
-    "id": 162,
-    "date": "2020-12-20T10:41:39Z",
-    "transaction_code": "GF7658JO",
-    "payee": "Camimbo",
-    "debit": null,
-    "credit": 1156,
-    "category": 15
-  },
-  {
-    "id": 163,
-    "date": "2020-05-27T01:20:06Z",
-    "transaction_code": "OA2555OX",
-    "payee": "Zoonder",
-    "debit": 3460.34,
-    "credit": null,
-    "category": 23
-  },
-  {
-    "id": 164,
-    "date": "2020-06-19T22:29:42Z",
-    "transaction_code": "CP4531MI",
-    "payee": "Viva",
-    "debit": 3122.43,
-    "credit": null,
-    "category": 5
-  },
-  {
-    "id": 165,
-    "date": "2020-05-30T06:36:07Z",
-    "transaction_code": "WO7898KC",
-    "payee": "Vinte",
-    "debit": 1298.25,
-    "credit": null,
-    "category": 19
-  },
-  {
-    "id": 166,
-    "date": "2020-09-08T09:52:05Z",
-    "transaction_code": "GK3213QQ",
-    "payee": "Flashspan",
-    "debit": 2985.34,
-    "credit": null,
-    "category": 27
-  },
-  {
-    "id": 167,
-    "date": "2020-08-19T20:41:48Z",
-    "transaction_code": "VG0248LR",
-    "payee": "Lazz",
-    "debit": 3221.73,
-    "credit": null,
-    "category": 13
-  },
-  {
-    "id": 168,
-    "date": "2020-01-23T04:44:54Z",
-    "transaction_code": "OQ3929HL",
-    "payee": "Voomm",
-    "debit": 698.77,
-    "credit": null,
-    "category": 21
-  },
-  {
-    "id": 169,
-    "date": "2020-11-07T10:27:46Z",
-    "transaction_code": "FG6785OW",
-    "payee": "Avaveo",
-    "debit": 2194.34,
-    "credit": null,
-    "category": 2
-  },
-  {
-    "id": 170,
-    "date": "2020-05-26T04:23:04Z",
-    "transaction_code": "MV8529DK",
-    "payee": "Buzzster",
-    "debit": 3080.07,
-    "credit": null,
-    "category": 23
-  },
-  {
-    "id": 171,
-    "date": "2020-01-03T20:19:29Z",
-    "transaction_code": "EU7991OX",
-    "payee": "Voomm",
-    "debit": 1455.7,
-    "credit": null,
+    "date": "2020-08-10T04:34:29Z",
+    "transaction_code": "SQ5939TD",
+    "payee": "Topiczoom",
+    "debit": 2482.03,
+    "credit": 0,
     "category": 1
   },
   {
-    "id": 172,
-    "date": "2020-10-18T12:28:05Z",
-    "transaction_code": "AE8264EI",
-    "payee": "Chatterpoint",
-    "debit": null,
-    "credit": 3363,
-    "category": 25
+    "id": 143,
+    "date": "2020-12-26T02:43:41Z",
+    "transaction_code": "BY9701SW",
+    "payee": "Divape",
+    "debit": 667.14,
+    "credit": 0,
+    "category": 7
   },
   {
-    "id": 173,
-    "date": "2020-03-23T16:02:56Z",
-    "transaction_code": "SZ3096WF",
-    "payee": "Voonyx",
-    "debit": 2891.05,
-    "credit": null,
-    "category": 24
-  },
-  {
-    "id": 174,
-    "date": "2020-10-09T01:42:04Z",
-    "transaction_code": "XO4602DL",
-    "payee": "Dabtype",
-    "debit": 1524.93,
-    "credit": null,
+    "id": 144,
+    "date": "2020-09-04T16:19:34Z",
+    "transaction_code": "CI5820OD",
+    "payee": "Twinte",
+    "debit": 541.43,
+    "credit": 0,
     "category": 26
   },
   {
-    "id": 175,
-    "date": "2020-08-24T14:44:41Z",
-    "transaction_code": "JD6305XF",
-    "payee": "Shufflester",
-    "debit": null,
-    "credit": 1868,
-    "category": 16
+    "id": 145,
+    "date": "2020-08-15T06:54:58Z",
+    "transaction_code": "VP3265IT",
+    "payee": "Tambee",
+    "debit": 1505.36,
+    "credit": 0,
+    "category": 6
   },
   {
-    "id": 176,
-    "date": "2020-09-02T22:42:12Z",
-    "transaction_code": "ZU0195CQ",
-    "payee": "Twinte",
-    "debit": 2345.52,
-    "credit": null,
-    "category": 12
+    "id": 146,
+    "date": "2020-05-29T01:21:46Z",
+    "transaction_code": "YM8810JO",
+    "payee": "Devpulse",
+    "debit": 3062.98,
+    "credit": 0,
+    "category": 6
   },
   {
-    "id": 177,
-    "date": "2020-12-26T04:54:35Z",
-    "transaction_code": "IA8469MD",
-    "payee": "Browsedrive",
-    "debit": 2720.41,
-    "credit": null,
-    "category": 16
-  },
-  {
-    "id": 178,
-    "date": "2020-02-05T01:42:30Z",
-    "transaction_code": "EG5067IZ",
-    "payee": "Minyx",
-    "debit": 2495.66,
-    "credit": null,
-    "category": 7
-  },
-  {
-    "id": 179,
-    "date": "2020-02-14T11:13:12Z",
-    "transaction_code": "YH5862FN",
-    "payee": "Centimia",
-    "debit": 1763.15,
-    "credit": null,
-    "category": 19
-  },
-  {
-    "id": 180,
-    "date": "2020-06-19T20:34:56Z",
-    "transaction_code": "TH5852KH",
-    "payee": "Wikizz",
-    "debit": 3532.55,
-    "credit": null,
-    "category": 7
-  },
-  {
-    "id": 181,
-    "date": "2020-07-22T16:22:51Z",
-    "transaction_code": "ER1501PM",
-    "payee": "Podcat",
-    "debit": 1006.85,
-    "credit": null,
-    "category": 19
-  },
-  {
-    "id": 182,
-    "date": "2020-11-06T17:10:34Z",
-    "transaction_code": "CY6593OA",
-    "payee": "Divavu",
-    "debit": 3063.48,
-    "credit": null,
-    "category": 20
-  },
-  {
-    "id": 183,
-    "date": "2020-12-12T16:59:16Z",
-    "transaction_code": "JK5763NY",
-    "payee": "Babbleopia",
-    "debit": null,
-    "credit": 315,
-    "category": 4
-  },
-  {
-    "id": 184,
-    "date": "2020-09-04T22:50:59Z",
-    "transaction_code": "BZ5141ZX",
-    "payee": "Wordware",
-    "debit": 354.42,
-    "credit": null,
-    "category": 19
-  },
-  {
-    "id": 185,
-    "date": "2020-10-22T09:48:19Z",
-    "transaction_code": "MJ7936VU",
-    "payee": "Tazzy",
-    "debit": 1086.92,
-    "credit": null,
-    "category": 25
-  },
-  {
-    "id": 186,
-    "date": "2020-09-14T18:47:41Z",
-    "transaction_code": "JK6266IA",
-    "payee": "Bubbletube",
-    "debit": 3962.61,
-    "credit": null,
-    "category": 25
-  },
-  {
-    "id": 187,
-    "date": "2020-05-09T21:16:33Z",
-    "transaction_code": "TB9399OG",
-    "payee": "Twitterworks",
-    "debit": 3097.62,
-    "credit": null,
-    "category": 24
-  },
-  {
-    "id": 188,
-    "date": "2020-07-16T10:02:50Z",
-    "transaction_code": "ZS3476TZ",
-    "payee": "Zooveo",
-    "debit": 3223.1,
-    "credit": null,
+    "id": 147,
+    "date": "2020-12-05T10:17:56Z",
+    "transaction_code": "FF2724LH",
+    "payee": "Eidel",
+    "debit": 0,
+    "credit": 1189,
     "category": 27
   },
   {
-    "id": 189,
-    "date": "2020-05-03T03:12:31Z",
-    "transaction_code": "SZ0914CO",
-    "payee": "Yodel",
-    "debit": 3768.89,
-    "credit": null,
-    "category": 2
+    "id": 148,
+    "date": "2020-08-18T10:25:43Z",
+    "transaction_code": "BI5353OM",
+    "payee": "Jayo",
+    "debit": 1783.53,
+    "credit": 0,
+    "category": 26
   },
   {
-    "id": 190,
-    "date": "2020-10-20T04:53:56Z",
-    "transaction_code": "FI2682IA",
-    "payee": "Eayo",
-    "debit": 2698.34,
-    "credit": null,
-    "category": 25
-  },
-  {
-    "id": 191,
-    "date": "2020-09-12T15:14:39Z",
-    "transaction_code": "EL8922HG",
-    "payee": "Kazu",
-    "debit": 1710.55,
-    "credit": null,
-    "category": 4
-  },
-  {
-    "id": 192,
-    "date": "2020-02-21T07:15:52Z",
-    "transaction_code": "JU5588WB",
-    "payee": "Aimbu",
-    "debit": 276.21,
-    "credit": null,
-    "category": 9
-  },
-  {
-    "id": 193,
-    "date": "2020-06-25T00:00:33Z",
-    "transaction_code": "TA4497JX",
-    "payee": "Voonte",
-    "debit": 450.15,
-    "credit": null,
-    "category": 17
-  },
-  {
-    "id": 194,
-    "date": "2020-02-23T01:12:17Z",
-    "transaction_code": "TW9173BI",
-    "payee": "Muxo",
-    "debit": 535.49,
-    "credit": null,
-    "category": 10
-  },
-  {
-    "id": 195,
-    "date": "2020-10-01T02:05:24Z",
-    "transaction_code": "CW0554LY",
-    "payee": "Plambee",
-    "debit": 1538.22,
-    "credit": null,
-    "category": 12
-  },
-  {
-    "id": 196,
-    "date": "2020-01-12T10:25:32Z",
-    "transaction_code": "VB5560SM",
-    "payee": "Photobean",
-    "debit": 3625.82,
-    "credit": null,
-    "category": 11
-  },
-  {
-    "id": 197,
-    "date": "2020-11-15T08:52:00Z",
-    "transaction_code": "CU4190MJ",
-    "payee": "Innojam",
-    "debit": 3183.41,
-    "credit": null,
-    "category": 8
-  },
-  {
-    "id": 198,
-    "date": "2020-05-05T11:21:47Z",
-    "transaction_code": "AQ4665PM",
-    "payee": "Jaxbean",
-    "debit": 929.59,
-    "credit": null,
-    "category": 2
-  },
-  {
-    "id": 199,
-    "date": "2020-06-07T21:06:34Z",
-    "transaction_code": "GL8481CI",
-    "payee": "Podcat",
-    "debit": 1122.95,
-    "credit": null,
+    "id": 149,
+    "date": "2020-09-15T18:01:15Z",
+    "transaction_code": "CX6917DR",
+    "payee": "Jabbertype",
+    "debit": 1703.04,
+    "credit": 0,
     "category": 16
   },
   {
+    "id": 150,
+    "date": "2020-03-06T17:26:07Z",
+    "transaction_code": "RS4276QC",
+    "payee": "Jayo",
+    "debit": 861.02,
+    "credit": 0,
+    "category": 13
+  },
+  {
+    "id": 151,
+    "date": "2020-01-13T09:21:27Z",
+    "transaction_code": "UK4888UN",
+    "payee": "Rhynyx",
+    "debit": 3773.03,
+    "credit": 0,
+    "category": 5
+  },
+  {
+    "id": 152,
+    "date": "2020-12-02T04:47:44Z",
+    "transaction_code": "PA3332AK",
+    "payee": "Jaxworks",
+    "debit": 1716.82,
+    "credit": 0,
+    "category": 22
+  },
+  {
+    "id": 153,
+    "date": "2020-05-28T01:31:02Z",
+    "transaction_code": "DR5955IG",
+    "payee": "Dabvine",
+    "debit": 2277.07,
+    "credit": 0,
+    "category": 7
+  },
+  {
+    "id": 154,
+    "date": "2020-05-03T16:20:43Z",
+    "transaction_code": "JO5453OS",
+    "payee": "Realbridge",
+    "debit": 1646.9,
+    "credit": 0,
+    "category": 24
+  },
+  {
+    "id": 155,
+    "date": "2020-06-21T05:44:46Z",
+    "transaction_code": "EI2269IE",
+    "payee": "Voonyx",
+    "debit": 0,
+    "credit": 79,
+    "category": 30
+  },
+  {
+    "id": 156,
+    "date": "2020-02-20T02:24:18Z",
+    "transaction_code": "HZ6939LE",
+    "payee": "Fivechat",
+    "debit": 0,
+    "credit": 2731,
+    "category": 27
+  },
+  {
+    "id": 157,
+    "date": "2020-09-13T05:49:36Z",
+    "transaction_code": "LA7089ML",
+    "payee": "Voomm",
+    "debit": 0,
+    "credit": 3919,
+    "category": 27
+  },
+  {
+    "id": 158,
+    "date": "2020-08-19T14:43:23Z",
+    "transaction_code": "CR2699XN",
+    "payee": "Voonix",
+    "debit": 2656.13,
+    "credit": 0,
+    "category": 19
+  },
+  {
+    "id": 159,
+    "date": "2020-01-15T17:37:34Z",
+    "transaction_code": "DI0609SJ",
+    "payee": "Eidel",
+    "debit": 1951.71,
+    "credit": 0,
+    "category": 20
+  },
+  {
+    "id": 160,
+    "date": "2020-07-14T16:43:57Z",
+    "transaction_code": "YQ6571OX",
+    "payee": "Kwilith",
+    "debit": 2571.85,
+    "credit": 0,
+    "category": 12
+  },
+  {
+    "id": 161,
+    "date": "2020-04-23T21:12:55Z",
+    "transaction_code": "BV2722HJ",
+    "payee": "Voonte",
+    "debit": 669.35,
+    "credit": 0,
+    "category": 24
+  },
+  {
+    "id": 162,
+    "date": "2020-09-29T12:15:17Z",
+    "transaction_code": "CE5146SE",
+    "payee": "Fivespan",
+    "debit": 1975.65,
+    "credit": 0,
+    "category": 17
+  },
+  {
+    "id": 163,
+    "date": "2020-05-20T13:27:35Z",
+    "transaction_code": "KF1008QO",
+    "payee": "Voonix",
+    "debit": 1653.14,
+    "credit": 0,
+    "category": 3
+  },
+  {
+    "id": 164,
+    "date": "2020-12-03T13:51:22Z",
+    "transaction_code": "HL4008GU",
+    "payee": "Realblab",
+    "debit": 3305.05,
+    "credit": 0,
+    "category": 10
+  },
+  {
+    "id": 165,
+    "date": "2020-04-04T22:01:03Z",
+    "transaction_code": "HE4956FW",
+    "payee": "Eidel",
+    "debit": 3950.74,
+    "credit": 0,
+    "category": 1
+  },
+  {
+    "id": 166,
+    "date": "2020-05-02T10:57:12Z",
+    "transaction_code": "KK1644KM",
+    "payee": "Skilith",
+    "debit": 3363.09,
+    "credit": 0,
+    "category": 16
+  },
+  {
+    "id": 167,
+    "date": "2020-07-03T21:43:18Z",
+    "transaction_code": "KC3223LU",
+    "payee": "Plambee",
+    "debit": 0,
+    "credit": 3746,
+    "category": 27
+  },
+  {
+    "id": 168,
+    "date": "2020-01-07T20:43:46Z",
+    "transaction_code": "BN3947PL",
+    "payee": "Kwilith",
+    "debit": 760.16,
+    "credit": 0,
+    "category": 18
+  },
+  {
+    "id": 169,
+    "date": "2020-05-04T00:03:46Z",
+    "transaction_code": "AZ8554WY",
+    "payee": "Zoomdog",
+    "debit": 0,
+    "credit": 2185,
+    "category": 28
+  },
+  {
+    "id": 170,
+    "date": "2020-11-18T21:19:43Z",
+    "transaction_code": "NY2993KD",
+    "payee": "Jabbersphere",
+    "debit": 2073.92,
+    "credit": 0,
+    "category": 1
+  },
+  {
+    "id": 171,
+    "date": "2020-02-13T07:15:16Z",
+    "transaction_code": "YY0882JD",
+    "payee": "Blogpad",
+    "debit": 3411.59,
+    "credit": 0,
+    "category": 18
+  },
+  {
+    "id": 172,
+    "date": "2020-05-12T03:20:15Z",
+    "transaction_code": "OV4149WZ",
+    "payee": "Avavee",
+    "debit": 0,
+    "credit": 524,
+    "category": 27
+  },
+  {
+    "id": 173,
+    "date": "2020-12-14T07:26:11Z",
+    "transaction_code": "MS3441GI",
+    "payee": "Pixope",
+    "debit": 3953.33,
+    "credit": 0,
+    "category": 1
+  },
+  {
+    "id": 174,
+    "date": "2020-03-12T14:16:36Z",
+    "transaction_code": "RS9631EF",
+    "payee": "Mynte",
+    "debit": 0,
+    "credit": 3051,
+    "category": 30
+  },
+  {
+    "id": 175,
+    "date": "2020-06-05T18:14:08Z",
+    "transaction_code": "PN0570VM",
+    "payee": "Linkbridge",
+    "debit": 165.23,
+    "credit": 0,
+    "category": 8
+  },
+  {
+    "id": 176,
+    "date": "2020-03-26T00:54:35Z",
+    "transaction_code": "SA8681EM",
+    "payee": "Jabberbean",
+    "debit": 240.33,
+    "credit": 0,
+    "category": 15
+  },
+  {
+    "id": 177,
+    "date": "2020-05-01T11:16:03Z",
+    "transaction_code": "NO5190JJ",
+    "payee": "Livefish",
+    "debit": 403.49,
+    "credit": 0,
+    "category": 21
+  },
+  {
+    "id": 178,
+    "date": "2020-10-04T06:04:05Z",
+    "transaction_code": "CS8281WL",
+    "payee": "Brainbox",
+    "debit": 0,
+    "credit": 1616,
+    "category": 32
+  },
+  {
+    "id": 179,
+    "date": "2020-11-08T08:32:37Z",
+    "transaction_code": "OS0985WY",
+    "payee": "Buzzster",
+    "debit": 1013.24,
+    "credit": 0,
+    "category": 7
+  },
+  {
+    "id": 180,
+    "date": "2020-01-11T11:02:48Z",
+    "transaction_code": "XR0584BW",
+    "payee": "Centimia",
+    "debit": 0,
+    "credit": 2035,
+    "category": 32
+  },
+  {
+    "id": 181,
+    "date": "2020-02-21T14:31:44Z",
+    "transaction_code": "EH0500WB",
+    "payee": "Plambee",
+    "debit": 2617.66,
+    "credit": 0,
+    "category": 12
+  },
+  {
+    "id": 182,
+    "date": "2020-03-21T20:55:44Z",
+    "transaction_code": "FV0213DB",
+    "payee": "Zazio",
+    "debit": 459.32,
+    "credit": 0,
+    "category": 26
+  },
+  {
+    "id": 183,
+    "date": "2020-07-30T05:11:02Z",
+    "transaction_code": "QU7115TF",
+    "payee": "Flashpoint",
+    "debit": 214.91,
+    "credit": 0,
+    "category": 16
+  },
+  {
+    "id": 184,
+    "date": "2020-08-09T17:42:51Z",
+    "transaction_code": "PP2704GZ",
+    "payee": "Leenti",
+    "debit": 2286.55,
+    "credit": 0,
+    "category": 7
+  },
+  {
+    "id": 185,
+    "date": "2020-06-07T23:03:57Z",
+    "transaction_code": "UY9057EA",
+    "payee": "Centidel",
+    "debit": 1589.42,
+    "credit": 0,
+    "category": 0
+  },
+  {
+    "id": 186,
+    "date": "2020-09-25T13:36:39Z",
+    "transaction_code": "KU3901OK",
+    "payee": "Talane",
+    "debit": 0,
+    "credit": 2797,
+    "category": 27
+  },
+  {
+    "id": 187,
+    "date": "2020-06-04T02:00:52Z",
+    "transaction_code": "XC3347MC",
+    "payee": "Babbleset",
+    "debit": 1433.77,
+    "credit": 0,
+    "category": 12
+  },
+  {
+    "id": 188,
+    "date": "2020-02-19T20:33:23Z",
+    "transaction_code": "CN6444DP",
+    "payee": "Vinder",
+    "debit": 3669.44,
+    "credit": 0,
+    "category": 6
+  },
+  {
+    "id": 189,
+    "date": "2020-01-12T04:52:16Z",
+    "transaction_code": "DO7638NH",
+    "payee": "Lazzy",
+    "debit": 3893.52,
+    "credit": 0,
+    "category": 15
+  },
+  {
+    "id": 190,
+    "date": "2020-05-21T10:10:46Z",
+    "transaction_code": "OX8396OE",
+    "payee": "Meembee",
+    "debit": 3346.59,
+    "credit": 0,
+    "category": 15
+  },
+  {
+    "id": 191,
+    "date": "2020-09-02T03:06:06Z",
+    "transaction_code": "WW3987II",
+    "payee": "Yakidoo",
+    "debit": 996.09,
+    "credit": 0,
+    "category": 20
+  },
+  {
+    "id": 192,
+    "date": "2020-01-18T18:10:18Z",
+    "transaction_code": "LX0075RD",
+    "payee": "Roombo",
+    "debit": 3683.89,
+    "credit": 0,
+    "category": 15
+  },
+  {
+    "id": 193,
+    "date": "2020-01-28T08:48:01Z",
+    "transaction_code": "HQ3451GG",
+    "payee": "Yodel",
+    "debit": 0,
+    "credit": 1403,
+    "category": 28
+  },
+  {
+    "id": 194,
+    "date": "2020-08-01T06:50:32Z",
+    "transaction_code": "RL3851QI",
+    "payee": "Edgeblab",
+    "debit": 0,
+    "credit": 357,
+    "category": 31
+  },
+  {
+    "id": 195,
+    "date": "2020-05-11T06:37:46Z",
+    "transaction_code": "IO6907DD",
+    "payee": "Realpoint",
+    "debit": 0,
+    "credit": 2986,
+    "category": 27
+  },
+  {
+    "id": 196,
+    "date": "2020-11-11T07:09:51Z",
+    "transaction_code": "EJ4872UG",
+    "payee": "Zoomzone",
+    "debit": 2636.8,
+    "credit": 0,
+    "category": 7
+  },
+  {
+    "id": 197,
+    "date": "2020-07-15T16:12:17Z",
+    "transaction_code": "HJ4490LR",
+    "payee": "Dynabox",
+    "debit": 1462.66,
+    "credit": 0,
+    "category": 24
+  },
+  {
+    "id": 198,
+    "date": "2020-04-03T03:13:14Z",
+    "transaction_code": "IC7259KL",
+    "payee": "Skiptube",
+    "debit": 1761.23,
+    "credit": 0,
+    "category": 18
+  },
+  {
+    "id": 199,
+    "date": "2020-12-27T03:34:37Z",
+    "transaction_code": "UR5643CJ",
+    "payee": "Dynava",
+    "debit": 1202.6,
+    "credit": 0,
+    "category": 14
+  },
+  {
     "id": 200,
-    "date": "2020-11-26T03:24:51Z",
-    "transaction_code": "VM3101XK",
-    "payee": "Yacero",
-    "debit": null,
-    "credit": 1864,
-    "category": 9
+    "date": "2020-08-10T00:32:05Z",
+    "transaction_code": "EC4280AO",
+    "payee": "Aimbo",
+    "debit": 287.95,
+    "credit": 0,
+    "category": 26
   }
 ]

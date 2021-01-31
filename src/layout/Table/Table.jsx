@@ -1,12 +1,24 @@
 import React from "react";
 
 export default function Table({
+  //----Table props-----
   getTableProps,
   getTableBodyProps,
   headerGroups,
   rows,
   prepareRow,
+  //----Dev props-----
+  mostRecent,
+  incomeOnly,
+  expensesOnly,
 }) {
+  const editedRows = mostRecent
+    ? rows.slice(0, 10)
+    : incomeOnly
+    ? rows.filter((row) => row["values"]["credit"] != null)
+    : expensesOnly
+    ? rows.filter((row) => row["values"]["debit"] != null)
+    : rows;
   return (
     <div className="container">
       <table className="table table-sm table-striped" {...getTableProps()}>
@@ -20,7 +32,7 @@ export default function Table({
           ))}
         </thead>
         <tbody {...getTableBodyProps()}>
-          {rows.map((row) => {
+          {editedRows.map((row) => {
             prepareRow(row);
             return (
               <tr {...row.getRowProps()}>
