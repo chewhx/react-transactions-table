@@ -27,8 +27,6 @@ export default function BarTwoChartJS({
     borderWidth: 1,
   };
 
-  console.log("dataOnIncome", dataOnIncome);
-
   const chartDatasets = {
     labels: labels,
     datasets: [dataOnExpenses],
@@ -51,7 +49,6 @@ export default function BarTwoChartJS({
     },
   };
 
-  console.log("expensesByMonth", expensesByMonth);
   return <Bar data={chartDatasets} options={chartOptions} />;
 }
 

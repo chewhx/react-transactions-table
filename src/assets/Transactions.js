@@ -67,6 +67,7 @@ export default class Transactions {
     this.incomeTopFive = this.getTopFive(this.incomeByCategory);
 
     this.expensesRecentMonths = this.getRecentMonths(this.expensesByMonth);
+    this.incomeRecentMonths = this.getRecentMonths(this.incomeByMonth);
   } //constructor
 
   getTopFive(obj) {
