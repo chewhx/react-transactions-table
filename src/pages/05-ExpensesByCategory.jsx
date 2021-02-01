@@ -13,7 +13,6 @@ export default function ExpensesByCategory() {
     <>
       <ChartHOC
         render={({ expensesByCategory, expensesTopFive }) => {
-          console.log("expensesTopFive", expensesTopFive);
           return (
             <>
               <Pie

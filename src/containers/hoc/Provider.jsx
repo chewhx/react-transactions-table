@@ -1,5 +1,5 @@
 import React, { useMemo } from "react";
-import { useTable } from "react-table";
+import { useTable, useSortBy } from "react-table";
 import Transactions from "../../assets/Transactions";
 
 import DATA from "../../assets/MOCK_DATA.json";
@@ -12,10 +12,11 @@ export default function Provider(props) {
   const data = useMemo(() => _sortByDate(DATA), []);
   const columns = useMemo(() => COLUMNS, []);
   const categories = useMemo(() => CATEGORIES["categories"], []);
-  const tableInstance = useTable({ data, columns })
+  const tableInstance = useTable({ data, columns }, useSortBy);
   return (
     <>
-      {props.renderChart && props.renderChart(new Transactions(categories, data))}
+      {props.renderChart &&
+        props.renderChart(new Transactions(categories, data))}
       {props.renderTable && props.renderTable(tableInstance)}
     </>
   );

@@ -26,7 +26,16 @@ export default function Table({
           {headerGroups.map((headerGroup) => (
             <tr {...headerGroup.getHeaderGroupProps()}>
               {headerGroup.headers.map((column) => (
-                <th {...column.getHeaderProps()}>{column.render("Header")}</th>
+                <th {...column.getHeaderProps((column.getSortByToggleProps()))}>
+                  <span>  
+                    {column.isSorted
+                      ? column.isSortedDesc
+                        ? <i class="bi bi-caret-up-square-fill"></i> 
+                        : <i class="bi bi-caret-down-square-fill"></i> 
+                      : ""}
+                  </span><span>  </span>
+                  {column.render("Header")}
+                </th>
               ))}
             </tr>
           ))}

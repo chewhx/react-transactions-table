@@ -3,36 +3,38 @@ import PropTypes from "prop-types";
 import { Bar } from "react-chartjs-2";
 import { format$ } from "../../assets/scripts/util";
 
-export default function BarOneChartJS({ title, labels, data }) {
+export default function BarSmChartJS(props) {
   const chartDatasets = {
-    labels: Object.keys(data),
+    labels: Object.keys(props.data),
     datasets: [
       {
-        label: "Expenses",
-        data: Object.values(data),
-        backgroundColor: [
-          "rgba(255, 99, 132, 0.2)",
-          "rgba(54, 162, 235, 0.2)",
-          "rgba(255, 206, 86, 0.2)",
-          "rgba(75, 192, 192, 0.2)",
-          "rgba(153, 102, 255, 0.2)",
-          "rgba(255, 159, 64, 0.2)",
-        ],
-        borderColor: [
-          "rgba(255, 99, 132, 1)",
-          "rgba(54, 162, 235, 1)",
-          "rgba(255, 206, 86, 1)",
-          "rgba(75, 192, 192, 1)",
-          "rgba(153, 102, 255, 1)",
-          "rgba(255, 159, 64, 1)",
-        ],
+        label: props.label,
+        data: Object.values(props.data),
+        backgroundColor: props.chartDark
+          ? "rgba(0, 0, 0, 0.2)"
+          : props.chartLight
+          ? "rgba(255, 255, 255, 1)"
+          : "rgba(0, 0, 0, 0.2)",
+        borderColor: props.chartDark
+          ? "rgba(0, 0, 0, 1)"
+          : props.chartLight
+          ? "rgba(255, 255, 255, 1)"
+          : "rgba(0, 0, 0, 1)",
         borderWidth: 1,
       },
     ],
   };
 
+  const chartAxesOptions = {
+    scales: {
+      yAxes: [{ display: false }],
+      xAxes: [{ display: false }],
+    },
+  };
+
   const chartOptions = {
-    title: { display: true, text: title /* props */ },
+    title: { display: !props.chartHideTitle, text: props.title },
+    ...chartAxesOptions,
     legend: { display: false },
     tooltips: {
       callbacks: {
@@ -52,13 +54,15 @@ export default function BarOneChartJS({ title, labels, data }) {
   return <Bar data={chartDatasets} options={chartOptions} />;
 }
 
-BarOneChartJS.propTypes = {
+BarSmChartJS.propTypes = {
   title: PropTypes.string.isRequired,
   labels: PropTypes.array,
   data: PropTypes.object.isRequired,
+  variant: PropTypes.string,
+  hideAxes: PropTypes.bool,
 };
 
-BarOneChartJS.defaultProps = {
+BarSmChartJS.defaultProps = {
   title: "Year 9999 - Bar Chart By Months",
   labels: [
     "Jan",
